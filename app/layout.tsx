@@ -86,6 +86,12 @@ export const metadata: Metadata = {
     shortcut: '/icon.svg',
     apple: '/icon.svg',
   },
+  verification: {
+    google: 'kzy5pDHDNNd8Ww7dxVP56PU_UiU9R-_2cktbZJKGrEs',
+    other: {
+      'msvalidate.01': 'CCB4AF44321543F2BCED8895FF28FB40',
+    },
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -140,6 +146,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <meta name="google-site-verification" content="kzy5pDHDNNd8Ww7dxVP56PU_UiU9R-_2cktbZJKGrEs" />
+        <meta name="msvalidate.01" content="CCB4AF44321543F2BCED8895FF28FB40" />
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
         <link rel="icon" href="/icon.png" type="image/png" sizes="32x32" />
         <link rel="apple-touch-icon" href="/icon.svg" />
