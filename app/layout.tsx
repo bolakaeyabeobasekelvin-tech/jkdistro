@@ -78,9 +78,13 @@ export const metadata: Metadata = {
     creator: '@jkdistro',
   },
   icons: {
-    icon: '/icon.png',
-    shortcut: '/icon.png',
-    apple: '/icon.png',
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+      { url: '/icon.png', type: 'image/png' },
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
   },
 };
 
@@ -92,7 +96,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     name: 'JK Distro',
     alternateName: ['JK Distro Shop', 'JK Distro Hemp', 'JK Distro Online'],
     url: siteUrl,
-    logo: `${siteUrl}/icon.png`,
+    logo: `${siteUrl}/icon.svg`,
     image: 'https://drive.google.com/uc?export=view&id=1rVkEqfSLShLjuw_-Z_njoIYKJia-N9z8',
     description:
       'JK Distro is a premier online distributor of top-shelf THCa flower, disposable vapes, shake, and hemp products with 100% lab testing transparency and nationwide discreet shipping.',
@@ -136,6 +140,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/icon.png" type="image/png" sizes="32x32" />
+        <link rel="apple-touch-icon" href="/icon.svg" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(storeSchema) }}

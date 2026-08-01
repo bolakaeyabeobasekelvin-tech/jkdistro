@@ -56,17 +56,42 @@ export default function CartPage() {
 
   const grandTotal = subtotal + (cart.length > 0 ? shippingCost : 0);
 
-  const handlePlaceOrder = (e: React.FormEvent) => {
+  const handlePlaceOrder = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!fullName || !email || !address) return;
 
     setIsSubmitting(true);
-    setTimeout(() => {
-      const generatedId = `JKD-${Math.floor(100000 + Math.random() * 900000)}`;
+    const generatedId = `JKD-${Math.floor(100000 + Math.random() * 900000)}`;
+
+    try {
+      await fetch('/api/orders', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          orderId: generatedId,
+          fullName,
+          email,
+          phone,
+          address,
+          city,
+          state,
+          zip,
+          paymentMethod,
+          shippingMethod,
+          cart,
+          subtotal,
+          shippingCost,
+          grandTotal,
+          orderNotes,
+        }),
+      });
+    } catch (err) {
+      console.error('Failed to dispatch order email', err);
+    } finally {
       setOrderId(generatedId);
       setIsSubmitting(false);
       setOrderComplete(true);
-    }, 1000);
+    }
   };
 
   const renderPaymentIcon = (id: PaymentMethod) => {
