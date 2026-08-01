@@ -6,22 +6,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://jkdistroshop.com'
   const currentDate = new Date()
 
-  // Base pages
-  const routes = [
+  // Base canonical pages (no query strings)
+  const baseRoutes = [
     '',
     '/shop',
-    '/shop?category=flower',
-    '/shop?category=vapes',
     '/about',
     '/blog',
     '/faq',
     '/contact',
     '/shipping',
+    '/privacy',
+    '/terms',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: currentDate,
-    changeFrequency: route === '' || route === '/shop' ? ('daily' as const) : ('weekly' as const),
-    priority: route === '' ? 1.0 : route.startsWith('/shop') ? 0.9 : 0.8,
+    changeFrequency: (route === '' || route === '/shop') ? ('daily' as const) : ('weekly' as const),
+    priority: route === '' ? 1.0 : route === '/shop' ? 0.9 : 0.8,
   }))
 
   // Dynamic products
@@ -44,10 +44,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Dynamic blog post routes
   const blogSlugs = [
-    'science-of-terpenes',
-    'indica-sativa-hybrid',
-    'vape-care-101',
-    'rise-of-live-resin',
     'is-jk-distro-legit',
     'how-long-jk-distro-ship',
     'does-jk-distro-id',
@@ -55,7 +51,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'where-is-jk-distro-located',
     'does-jk-distro-ship-texas',
     'jk-distro-wholesale-prices',
-    'where-does-jk-distro-ship-from'
+    'where-does-jk-distro-ship-from',
+    'science-of-terpenes',
+    'indica-sativa-hybrid',
+    'vape-care-101',
+    'rise-of-live-resin',
+    'does-thca-get-you-high',
+    'how-to-pass-a-drug-test-thc',
+    'cheap-thca-flower-ounces-guide',
+    'how-much-is-a-quarter-pound-of-weed',
+    'jk-distro-coupon-code-and-discounts',
+    'lit-farms-vs-jk-distro-review',
   ]
 
   const blogRoutes = blogSlugs.map((slug) => ({
@@ -65,5 +71,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...routes, ...productRoutes, ...blogRoutes]
+  return [...baseRoutes, ...productRoutes, ...blogRoutes]
 }
+

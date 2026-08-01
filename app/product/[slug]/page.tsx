@@ -17,6 +17,19 @@ async function getProduct(slug: string) {
   }
 }
 
+export async function generateStaticParams() {
+  const filePath = path.join(process.cwd(), 'data', 'scraped-products.json');
+  try {
+    const data = fs.readFileSync(filePath, 'utf-8');
+    const products = JSON.parse(data);
+    return products.map((product: any) => ({
+      slug: product.slug,
+    }));
+  } catch (error) {
+    return [];
+  }
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const resolvedParams = await params;
   const product = await getProduct(resolvedParams.slug);

@@ -99,6 +99,54 @@ const posts = [
     image: LOGO_IMAGE_URL,
     date: 'Jan 10, 2024',
     slug: 'where-does-jk-distro-ship-from'
+  },
+  {
+    id: 13,
+    title: 'Does THCa Get You High? Decarboxylation & Science',
+    excerpt: 'Discover how heating THCa flower converts it into active Delta-9 THC, and compare THCa to HHC, THC-P, and wax.',
+    image: LOGO_IMAGE_URL,
+    date: 'Feb 14, 2024',
+    slug: 'does-thca-get-you-high'
+  },
+  {
+    id: 14,
+    title: 'How to Pass a Drug Test for THC: Urine & Saliva Guide',
+    excerpt: 'Essential guide on detection windows, metabolite testing, hydration, and mouth swab vs urine testing.',
+    image: LOGO_IMAGE_URL,
+    date: 'Mar 01, 2024',
+    slug: 'how-to-pass-a-drug-test-thc'
+  },
+  {
+    id: 15,
+    title: 'Cheap THCa Flower Ounces Guide: $40 & $50 Oz Deals',
+    excerpt: 'Explore how JK Distro delivers $40 and $50 budget THCa ounces, greenhouse smalls, and clearance deals.',
+    image: LOGO_IMAGE_URL,
+    date: 'Mar 18, 2024',
+    slug: 'cheap-thca-flower-ounces-guide'
+  },
+  {
+    id: 16,
+    title: 'How Much is a Quarter Pound of Weed? Bulk THCa Guide',
+    excerpt: 'Everything you need to know about weight conversions (4 oz / 113.4g), bulk THCa quarter pounds, and shake pounds.',
+    image: LOGO_IMAGE_URL,
+    date: 'Apr 05, 2024',
+    slug: 'how-much-is-a-quarter-pound-of-weed'
+  },
+  {
+    id: 17,
+    title: 'JK Distro Coupon Code & Discount Guide',
+    excerpt: 'Verified discount codes, promo savings, rewards points, and free sample offers for top-shelf THCa flower.',
+    image: LOGO_IMAGE_URL,
+    date: 'Apr 20, 2024',
+    slug: 'jk-distro-coupon-code-and-discounts'
+  },
+  {
+    id: 18,
+    title: 'JK Distro vs. Lit Farms Review: Quality & Reddit Verdict',
+    excerpt: 'A comprehensive brand breakdown comparing THCa smalls, pricing, delivery speed, and community reviews.',
+    image: LOGO_IMAGE_URL,
+    date: 'May 02, 2024',
+    slug: 'lit-farms-vs-jk-distro-review'
   }
 ];
 

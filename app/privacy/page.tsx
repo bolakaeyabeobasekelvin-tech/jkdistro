@@ -6,15 +6,56 @@ const siteUrl = 'https://jkdistroshop.com';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy | JK Distro Shop',
-  description: 'JK Distro Shop privacy policy details how we handle customer data, order confidentiality, and secure transactions.',
+  description: 'JK Distro Shop privacy policy details how we handle customer data, order confidentiality, discreet shipping, and secure transactions.',
+  keywords: [
+    'JK Distro Privacy Policy',
+    'JK Distro Confidentiality',
+    'JK Distro Customer Privacy',
+    'Discreet Shipping Policy',
+  ],
   alternates: {
     canonical: `${siteUrl}/privacy`,
+  },
+  openGraph: {
+    title: 'Privacy Policy | JK Distro Shop',
+    description: 'Learn how JK Distro Shop protects customer privacy, order confidentiality, and secure transactions.',
+    url: `${siteUrl}/privacy`,
+    siteName: 'JK Distro Shop',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Privacy Policy | JK Distro Shop',
+    description: 'Learn how JK Distro Shop protects customer privacy, order confidentiality, and secure transactions.',
   },
 };
 
 export default function PrivacyPage() {
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: siteUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Privacy Policy',
+        item: `${siteUrl}/privacy`,
+      },
+    ],
+  };
+
   return (
     <div className="bg-white min-h-screen pb-32">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <section className="relative py-20 lg:py-24 bg-neutral-900 overflow-hidden mb-16">
         <Image
           src="https://drive.google.com/uc?export=view&id=1rVkEqfSLShLjuw_-Z_njoIYKJia-N9z8"

@@ -48,12 +48,12 @@ export function Footer() {
               Elevating your experience with premium, curated flower and disposable vapes designed for the modern connoisseur.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-10 h-10 rounded-xl bg-neutral-800 border border-neutral-700 flex items-center justify-center text-neutral-400 hover:text-red-500 hover:border-red-500/50 transition-colors">
+              <Link href="/contact" aria-label="Official Website Support" className="w-10 h-10 rounded-xl bg-neutral-800 border border-neutral-700 flex items-center justify-center text-neutral-400 hover:text-red-500 hover:border-red-500/50 transition-colors">
                 <Globe className="w-4 h-4" />
-              </a>
-              <a href="#" className="w-10 h-10 rounded-xl bg-neutral-800 border border-neutral-700 flex items-center justify-center text-neutral-400 hover:text-red-500 hover:border-red-500/50 transition-colors">
+              </Link>
+              <Link href="/contact" aria-label="Customer Support Messaging" className="w-10 h-10 rounded-xl bg-neutral-800 border border-neutral-700 flex items-center justify-center text-neutral-400 hover:text-red-500 hover:border-red-500/50 transition-colors">
                 <MessageCircle className="w-4 h-4" />
-              </a>
+              </Link>
             </div>
           </div>
 

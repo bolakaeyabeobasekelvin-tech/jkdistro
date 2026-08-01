@@ -645,7 +645,351 @@ const blogArticles: Record<string, BlogArticle> = {
       },
     ],
   },
+
+  'does-thca-get-you-high': {
+    title: 'Does THCa Get You High? Decarboxylation, Science & Effects',
+    date: 'Feb 14, 2024',
+    readTime: '6 min read',
+    category: 'Hemp Science',
+    focusKeyword: 'Does THCa Get You High',
+    excerpt: 'Does THCa get you high? Learn how heating converts non-psychoactive THCa into potent Delta-9 THC, and compare THCa to HHC, THC-P, concentrates, and gummies.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'Raw THCa (Tetrahydrocannabinolic Acid) is non-psychoactive in its natural unheated form.',
+      'When exposed to heat (smoking, vaping, or cooking), THCa converts directly into Delta-9 THC at an 87.7% molecular ratio.',
+      'Delivers identical full-spectrum potency and effects as traditional dispensary flower under federal Farm Bill compliance.',
+    ],
+    sections: [
+      {
+        heading: 'Does THCa Get You High? Understanding Decarboxylation',
+        paragraphs: [
+          'If you are exploring modern hemp products, your top question is likely: Does THCa get you high? The short answer is yes—when heated. THCa (Tetrahydrocannabinolic Acid) is the chemical precursor naturally produced in living cannabis and hemp trichomes.',
+          'In raw flower, THCa contains an extra carboxyl ring (COOH) that prevents it from binding directly to CB1 receptors in the brain. However, when you apply heat via a lighter, vaporizer, or oven, a chemical transformation called decarboxylation occurs instantly.',
+        ],
+      },
+      {
+        heading: 'The Math of Decarboxylation: THCa to Delta-9 THC Conversion',
+        paragraphs: [
+          'During decarboxylation, heat releases carbon dioxide from the THCa molecule, converting it directly into active Delta-9 THC. The scientific conversion formula is:',
+        ],
+        bulletPoints: [
+          'Conversion Formula: Total THC = Delta-9 THC + (THCa x 0.877).',
+          'Identical Potency: A strain testing at 25% THCa yields approximately 21.9% active Delta-9 THC when smoked or vaped.',
+          'Farm Bill Compliance: Because unheated flower contains less than 0.3% Delta-9 THC by dry weight, THCa flower is legally classified as federal hemp.',
+        ],
+      },
+      {
+        heading: 'THCa vs. HHC, THC-P, Concentrates & Gummies',
+        paragraphs: [
+          'Understanding how THCa compares to alternative cannabinoids and concentrates helps consumers make informed choices:',
+        ],
+        bulletPoints: [
+          'THCa vs. HHC: HHC is a hydrogenated cannabinoid created in labs, whereas THCa is 100% naturally occurring in raw plant trichomes.',
+          'THCa vs. THC-P: THC-P possesses a longer alkyl side chain yielding high receptor affinity, whereas THCa converts into standard natural Delta-9 THC.',
+          'THC Concentrates (Wax, Crystals & Powder): THCa diamonds, crystals, and wax extracts isolate THCa up to 99% purity for intense dabbing potency.',
+          'THC Syrup & Gummies: Edible products convert THCa to Delta-9 prior to infusion, delivering long-lasting oral metabolic effects.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Will smoking or vaping THCa flower produce a high?',
+        a: 'Yes. Heating THCa flower instantly converts it into active Delta-9 THC, producing full-spectrum effects identical to traditional flower.',
+      },
+      {
+        q: 'Is THCa legal under federal law?',
+        a: 'Yes. Under the 2018 Federal Farm Bill, hemp products containing less than 0.3% Delta-9 THC on a dry weight basis are legally compliant.',
+      },
+      {
+        q: 'Does eating raw THCa flower get you high?',
+        a: 'No. Eating raw flower without applying heat does not trigger decarboxylation, meaning it remains non-psychoactive.',
+      },
+    ],
+  },
+
+  'how-to-pass-a-drug-test-thc': {
+    title: 'How to Pass a Drug Test for THC: Urine & Mouth Swab Testing Guide',
+    date: 'Mar 01, 2024',
+    readTime: '6 min read',
+    category: 'Testing Guide',
+    focusKeyword: 'How to Pass a Drug Test for THC Urine',
+    excerpt: 'Comprehensive guide on passing urine and mouth swab drug tests for THC. Learn detection windows, metabolite testing, hydration, and key precautions.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'Standard drug panels test for the THC-COOH metabolite, which is produced after consuming Delta-9 THC or converted THCa.',
+      'Mouth swab tests have short detection windows (24-72 hours), while urine tests detect metabolites for 3 to 30+ days.',
+      'Proper hydration, exercise, time, and avoiding re-exposure are the most reliable methods for clearing metabolites naturally.',
+    ],
+    sections: [
+      {
+        heading: 'Understanding THC Drug Screenings: Urine vs. Oral Swab',
+        paragraphs: [
+          'Whether for employment screening or routine health checks, knowing how to pass a drug test for THC is a frequent concern for hemp enthusiasts. Standard drug tests do not differentiate between hemp-derived THCa and dispensary cannabis because both metabolize into the same primary metabolite: THC-COOH.',
+          'When THCa is heated and consumed, your body breaks down Delta-9 THC in the liver, producing fat-soluble THC-COOH metabolites that are stored in lipid tissues and gradually excreted.',
+        ],
+      },
+      {
+        heading: 'How to Pass a Urine Drug Test for THC',
+        paragraphs: [
+          'Urine tests are the most common screening method. Detection windows depend heavily on usage frequency, body fat percentage, metabolic rate, and hydration levels:',
+        ],
+        bulletPoints: [
+          'Infrequent / First-Time Users: 3 to 5 days after last consumption.',
+          'Moderate Users (2-3 times/week): 7 to 14 days for metabolites to drop below the standard 50 ng/mL cutoff.',
+          'Daily / Heavy Users: 21 to 30+ days for complete clearance from lipid stores.',
+          'Natural Detox Steps: Stay well-hydrated with water and electrolyte beverages, maintain a balanced diet, and avoid re-exposure during your test window.',
+        ],
+      },
+      {
+        heading: 'How to Pass a Mouth Swab (Saliva) Test for THC',
+        paragraphs: [
+          'Mouth swab tests analyze oral fluid for active residual THC deposited during smoking or vaping. Saliva screenings have significantly shorter detection windows than urine tests:',
+        ],
+        bulletPoints: [
+          'Detection Window: Oral swabs typically detect active THC for 24 to 48 hours (up to 72 hours for heavy daily users).',
+          'Oral Hygiene Protocol: Brush thoroughly 3 times daily (including tongue and gums), use antiseptic mouthwash, and stay continuously hydrated.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Does THCa show up on a standard drug test?',
+        a: 'Yes. Once THCa is heated and inhaled, it metabolizes into THC-COOH, which is detected by standard urine and saliva drug screenings.',
+      },
+      {
+        q: 'How long does THCa stay in your urine system?',
+        a: 'It ranges from 3-5 days for occasional users to 30+ days for frequent daily consumers.',
+      },
+      {
+        q: 'Can drinking excess water flush out a drug test instantly?',
+        a: 'Drinking water dilutes urine temporarily, but excessive dilution may result in a "Dilute" test result requiring a retest.',
+      },
+    ],
+  },
+
+  'cheap-thca-flower-ounces-guide': {
+    title: 'Cheap THCa Flower Ounces Guide: $40 & $50 Oz Deals, Smalls & Clearance',
+    date: 'Mar 18, 2024',
+    readTime: '5 min read',
+    category: 'Buyer Guide',
+    focusKeyword: 'Cheap THCa Flower Ounces',
+    excerpt: 'Looking for cheap THCa flower ounces? Learn how JK Distro delivers $40-$50 budget ounces, greenhouse smalls, and clearance deals without sacrificing quality.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'JK Distro offers $40 and $50 THCa ounces packed with dense, trichome-rich smalls and greenhouse flower.',
+      'THCa smalls (mini buds) come from the lower canopy of top-shelf indoor plants, offering full potency at fraction costs.',
+      'Every clearance ounce includes full independent DEA-accredited lab COA documentation for guaranteed safety.',
+    ],
+    sections: [
+      {
+        heading: 'How to Find Cheap THCa Flower Ounces Online',
+        paragraphs: [
+          'Finding high-potency, budget-friendly hemp flower without getting stuck with dry trim or low-grade product can be challenging. At JK Distro, we have revolutionized budget pricing by making cheap THCa flower ounces accessible to everyone nationwide.',
+          'By sourcing directly from California cultivators and eliminating middleman markups, JK Distro offers premium $40 and $50 THCa ounces that outperform higher-priced options on the market.',
+        ],
+      },
+      {
+        heading: 'Why $40 & $50 THCa Smalls Ounces Offer Maximum Value',
+        paragraphs: [
+          'If you want the cheapest ounce of THCa flower without compromising on terpene profiles or potency, smalls (also known as mini buds or popcorn buds) are the ultimate choice:',
+        ],
+        bulletPoints: [
+          'Same Genetics & Potency: Smalls grow on the exact same plants as top-shelf colas, receiving identical nutrition and curing.',
+          'High Trichome Density: Smalls retain dense resin heads, delivering rich flavor and high THCa percentages.',
+          'Ideal for Daily Use & Pre-Rolls: Smalls are easy to grind and roll without wasting large decorative stems.',
+          'Clearance & Bulk Savings: Combined with promotional codes, budget ounces offer unmatched dollar-per-gram value.',
+        ],
+      },
+      {
+        heading: 'Quality Assurance on Budget THCa Flower',
+        paragraphs: [
+          'Cheap does not mean low quality at JK Distro. Every batch of budget greenhouse smalls and clearance ounces undergoes the exact same 3-stage lab testing process as our boutique indoor reserves.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Why are THCa smalls cheaper than regular indoor flower?',
+        a: 'Smalls are smaller in physical size, making them visually distinct from top-canopy colas, allowing us to offer them at deep discounts.',
+      },
+      {
+        q: 'What is the price of a $40 THCa ounce at JK Distro?',
+        a: 'Our $40 and $50 ounces provide 28 grams of fully lab-tested THCa flower or smalls.',
+      },
+      {
+        q: 'Does cheap THCa flower still include lab COAs?',
+        a: 'Yes, every batch of budget flower includes verified third-party laboratory analysis.',
+      },
+    ],
+  },
+
+  'how-much-is-a-quarter-pound-of-weed': {
+    title: 'How Much is a Quarter Pound of Weed? Bulk THCa Flower & Pound Prices',
+    date: 'Apr 05, 2024',
+    readTime: '5 min read',
+    category: 'Bulk Pricing',
+    focusKeyword: 'How Much is a Quarter Pound of Weed',
+    excerpt: 'Find out how much a quarter pound of weed costs. Explore weight conversions (4 oz / 113.4g), bulk THCa flower pricing, quarter pounds, and shake pounds.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'A quarter pound (QP) equals exactly 4 ounces or 113.4 grams of flower.',
+      'Buying THCa flower in quarter-pound or full-pound quantities slashes per-gram costs by 30% to 50%.',
+      'JK Distro offers bulk options across exotic indoor strains, budget smalls, and fine trim/shake pounds.',
+    ],
+    sections: [
+      {
+        heading: 'How Much is a Quarter Pound of Weed? Weight & Pricing Breakdown',
+        paragraphs: [
+          'Whether you are stocking up for personal use, creating pre-rolls, or managing retail inventory, understanding bulk measurements is key. So, how much is a quarter pound of weed?',
+          'A quarter pound (commonly abbreviated as QP) equals 4 ounces or exactly 113.4 grams of flower. In terms of price, a quarter pound of high-grade THCa flower typically ranges from $150 to $350 depending on whether you choose greenhouse smalls, trim/shake, or top-shelf indoor colas.',
+        ],
+      },
+      {
+        heading: 'Cannabis Weight Conversions Quick Reference',
+        paragraphs: [
+          'Here is a quick reference table for common bulk flower measurements:',
+        ],
+        bulletPoints: [
+          'Quarter Ounce (1/4 oz): 7 grams',
+          'Half Ounce (1/2 oz): 14 grams',
+          'One Ounce (1 oz): 28.35 grams',
+          'Quarter Pound (1/4 lb / QP): 4 Ounces = 113.4 grams',
+          'Half Pound (1/2 lb / HP): 8 Ounces = 226.8 grams',
+          'Full Pound (1 lb): 16 Ounces = 453.6 grams',
+        ],
+      },
+      {
+        heading: 'Why Buy Bulk THCa Quarter Pounds & Shake Pounds?',
+        paragraphs: [
+          'Purchasing THCa flower by the quarter pound or full pound maximizes cost efficiency. For pre-roll manufacturers and bulk consumers, JK Distro shake pounds and bulk smalls QPs provide unbeatable margins.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'How many ounces are in a quarter pound of weed?',
+        a: 'There are exactly 4 ounces (113.4 grams) in a quarter pound.',
+      },
+      {
+        q: 'How much does a quarter pound of THCa flower cost at JK Distro?',
+        a: 'Bulk QP prices start as low as $150-$200 for budget smalls and shake, up to $300-$350 for boutique indoor flower.',
+      },
+      {
+        q: 'Does JK Distro ship bulk pounds discreetly?',
+        a: 'Yes, all bulk quarter pounds and full pounds are double vacuum-sealed in odor-proof barrier bags.',
+      },
+    ],
+  },
+
+  'jk-distro-coupon-code-and-discounts': {
+    title: 'JK Distro Coupon Code & Discount Guide: Save on THCa Flower & Vapes',
+    date: 'Apr 20, 2024',
+    readTime: '4 min read',
+    category: 'Promotions',
+    focusKeyword: 'JK Distro Coupon Code',
+    excerpt: 'Unlock verified JK Distro coupon codes, promo discounts, free sample offers, and rewards points for top-shelf THCa flower, vapes, and shake.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'Save up to 20% on top-shelf THCa flower, live resin vapes, and shake with verified JK Distro discount codes.',
+      'Unlock free nationwide shipping on qualifying order thresholds and enjoy first-timer sample promos.',
+      'Subscribe to the JK Distro newsletter or join our community forums to receive instant flash sale codes.',
+    ],
+    sections: [
+      {
+        heading: 'How to Find & Redeem JK Distro Coupon Codes',
+        paragraphs: [
+          'Looking for a valid JK Distro coupon code to apply toward your next THCa order? We regularly offer promo codes, seasonal discounts, and rewards savings to ensure our customers get the best prices on premium hemp flower and vapes.',
+          'Applying your discount is simple: during checkout on the official JK Distro store, enter your coupon code in the designated promotional field to instantly apply savings to your cart total.',
+        ],
+      },
+      {
+        heading: 'Top Ways to Save Money at JK Distro',
+        paragraphs: [
+          'In addition to discount codes, here are the smartest ways to maximize your savings:',
+        ],
+        bulletPoints: [
+          'Newsletter Discount: Sign up for our email newsletter to receive an instant welcome promo code.',
+          'Bulk Bundle Pricing: Save automatically when purchasing 7g shake bundles or quarter-pound bulk options.',
+          'Free Shipping Thresholds: Orders meeting minimum purchase thresholds automatically qualify for free standard shipping.',
+          'Community & Forum Flash Sales: Follow JK Distro updates on verified community channels for exclusive flash discounts.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Where do I enter my JK Distro promo code at checkout?',
+        a: 'Enter your code in the "Coupon / Promo Code" box on the checkout page before completing payment.',
+      },
+      {
+        q: 'Can I combine multiple coupon codes on one order?',
+        a: 'Usually one promo code can be applied per order, but coupons can be combined with automatic sale discounts.',
+      },
+      {
+        q: 'Does JK Distro offer free samples?',
+        a: 'We periodically include bonus sample packs or promotional flower with qualifying orders.',
+      },
+    ],
+  },
+
+  'lit-farms-vs-jk-distro-review': {
+    title: 'JK Distro vs. Lit Farms Review: Quality, Smalls, Pricing & Reddit Verdict',
+    date: 'May 02, 2024',
+    readTime: '6 min read',
+    category: 'Brand Comparison',
+    focusKeyword: 'Lit Farms Reviews',
+    excerpt: 'Detailed comparison between JK Distro and Lit Farms. Compare THCa smalls, exotic indoor flower, shipping speed, COA testing, and Reddit community reviews.',
+    image: LOGO_IMAGE_URL,
+    keyTakeaways: [
+      'Both JK Distro and Lit Farms offer popular Farm Bill compliant THCa flower and smalls online.',
+      'JK Distro leads with lower budget entry tiers ($40-$50 oz), 24-hour dispatch speed, and double vacuum odor protection.',
+      'Reddit user reviews praise JK Distro for exceptional customer service responsiveness and fast nationwide delivery.',
+    ],
+    sections: [
+      {
+        heading: 'JK Distro vs. Lit Farms: Brand Comparison Overview',
+        paragraphs: [
+          'When searching for top-rated THCa vendors online, two names frequently pop up in Reddit threads and hemp community reviews: JK Distro and Lit Farms. Both vendors have built strong followings supplying legal hemp flower across the US.',
+          'However, key differences in product selection, budget pricing tiers, shipping speed, and packaging standards set them apart.',
+        ],
+      },
+      {
+        heading: 'Product Lineup, Smalls & Budget Ounces Comparison',
+        paragraphs: [
+          'Here is how JK Distro compares against Lit Farms in key categories:',
+        ],
+        bulletPoints: [
+          'Budget Ounces & Smalls: JK Distro offers dedicated $40 and $50 THCa smalls ounces, providing lower entry points for budget shoppers.',
+          'Flower Selection: Both brands stock exotic indoor genetics, but JK Distro also offers high-margin shake pounds and live resin disposables.',
+          'Lab Testing Transparency: Both brands provide DEA-accredited COAs verifying <0.3% Delta-9 THC compliance.',
+          'Packaging & Privacy: JK Distro utilizes double vacuum sealing in unbranded boxes to guarantee 100% odor-proof transit.',
+        ],
+      },
+      {
+        heading: 'Reddit Community Sentiment & Final Verdict',
+        paragraphs: [
+          'On forums like Reddit (r/THCa, r/hempflowers), consumers frequently commend JK Distro for reliable shipping times, potent budget smalls, and quick resolution by customer support.',
+          'For consumers seeking maximum value, rapid dispatch, and uncompromised flower purity, JK Distro stands as a top recommended source.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Is JK Distro or Lit Farms better for cheap THCa ounces?',
+        a: 'JK Distro offers consistent $40-$50 budget ounces and smalls, making it the preferred option for price-conscious buyers.',
+      },
+      {
+        q: 'Is JK Distro legit according to Reddit user reviews?',
+        a: 'Yes, Reddit community threads widely recognize JK Distro as a legitimate, reliable California-based distributor.',
+      },
+    ],
+  },
 };
+
+export async function generateStaticParams() {
+  return Object.keys(blogArticles).map((slug) => ({
+    slug,
+  }));
+}
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const resolvedParams = await params;
@@ -714,7 +1058,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       name: 'JK Distro Shop',
       logo: {
         '@type': 'ImageObject',
-        url: `${siteUrl}/icon.png`,
+        url: `${siteUrl}/icon.svg`,
       },
     },
     mainEntityOfPage: {

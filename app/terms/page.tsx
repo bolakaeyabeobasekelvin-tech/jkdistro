@@ -6,15 +6,56 @@ const siteUrl = 'https://jkdistroshop.com';
 
 export const metadata: Metadata = {
   title: 'Terms of Service | JK Distro Shop',
-  description: 'Terms of Service and purchasing agreement for JK Distro Shop customers.',
+  description: 'Terms of Service and purchasing agreement guidelines for JK Distro Shop customers.',
+  keywords: [
+    'JK Distro Terms of Service',
+    'JK Distro Purchasing Terms',
+    'JK Distro Age Policy 21+',
+    'Farm Bill Compliance Terms',
+  ],
   alternates: {
     canonical: `${siteUrl}/terms`,
+  },
+  openGraph: {
+    title: 'Terms of Service | JK Distro Shop',
+    description: 'Agreement guidelines and terms of service for purchasing from JK Distro Shop.',
+    url: `${siteUrl}/terms`,
+    siteName: 'JK Distro Shop',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Terms of Service | JK Distro Shop',
+    description: 'Agreement guidelines and terms of service for purchasing from JK Distro Shop.',
   },
 };
 
 export default function TermsPage() {
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: siteUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Terms of Service',
+        item: `${siteUrl}/terms`,
+      },
+    ],
+  };
+
   return (
     <div className="bg-white min-h-screen pb-32">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <section className="relative py-20 lg:py-24 bg-neutral-900 overflow-hidden mb-16">
         <Image
           src="https://drive.google.com/uc?export=view&id=1rVkEqfSLShLjuw_-Z_njoIYKJia-N9z8"

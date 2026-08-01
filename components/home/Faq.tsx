@@ -41,14 +41,15 @@ const faqs = [
   }
 ];
 
-export function Faq() {
+export function Faq({ limit }: { limit?: number }) {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
+  const displayedFaqs = limit ? faqs.slice(0, limit) : faqs;
 
   // FAQ Schema for Search Engine Rich Snippets
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: faqs.map((faq) => ({
+    mainEntity: displayedFaqs.map((faq) => ({
       '@type': 'Question',
       name: faq.question,
       acceptedAnswer: {
@@ -126,7 +127,7 @@ export function Faq() {
 
           {/* Right Column: FAQ Accordion List */}
           <div className="lg:col-span-7 space-y-3.5">
-            {faqs.map((faq, index) => {
+            {displayedFaqs.map((faq, index) => {
               const isOpen = openIndex === index;
               return (
                 <div 
