@@ -9,7 +9,7 @@ const siteUrl = 'https://jkdistroshop.com';
 export const metadata: Metadata = {
   title: 'JK Distro Shipping Modes & Returns | 3-5 Day, 2 Day & 24hr Priority',
   description:
-    'Detailed breakdown of JK Distro shipping modes: $15 standard (3-5 days), $25 advanced (2 days), and $50 priority (24 hours). 100% stealth packaging and returns policy.',
+    'JK Distro shipping modes: $15 standard (3-5 days), $25 2-day, and $50 24-hour priority. 100% stealth vacuum packaging and clear returns policy.',
   keywords: [
     'JK Distro Shipping',
     'JK Distro Shipping Modes',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'JK Distro Shipping Modes & Returns | 3-5 Day, 2 Day & 24hr Priority',
     description:
-      'Detailed breakdown of JK Distro shipping modes: 3-5 days standard ($15), 2 days advanced ($25), and 24 hours priority ($50). Stealth vacuum-sealed packaging.',
+      'JK Distro shipping breakdown: 3-5 days standard ($15), 2 days advanced ($25), and 24 hours priority ($50). Stealth vacuum-sealed packaging.',
     url: `${siteUrl}/shipping`,
     siteName: 'JK Distro Shop',
     type: 'website',

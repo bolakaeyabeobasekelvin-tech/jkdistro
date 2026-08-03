@@ -9,15 +9,15 @@ import { BlogSection } from '@/components/home/BlogSection';
 const siteUrl = 'https://jkdistroshop.com';
 
 export const metadata: Metadata = {
-  title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Shake Online',
+  title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Gummies Online',
   description:
-    'JK Distro Shop is the premier online distributor for top-shelf THCa indoor flower, 21+ legal vapes, 7g shake, and concentrates. 100% lab tested with fast, discreet shipping.',
+    'JK Distro Shop is the premier distributor for top-shelf THCa flower, 10g gummies, 21+ vapes, and shake. 100% lab tested with fast discreet shipping.',
   keywords: [
     'JK Distro',
     'JK Distro Shop',
     'Buy THCa Flower Online',
     'JK Distro Vapes',
-    'JK Distro Shake',
+    'JK Distro Gummies',
     'THCa Disposable Vapes',
     'JK Distro Legit',
   ],
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
     canonical: siteUrl,
   },
   openGraph: {
-    title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Shake Online',
+    title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Gummies Online',
     description:
-      'Premier online distributor of top-shelf THCa flower, disposable vapes, shake, and hemp products. 100% lab tested with discreet nationwide delivery.',
+      'Premier online distributor of top-shelf THCa flower, disposable vapes, 10g gummies, and hemp products. 100% lab tested with discreet nationwide delivery.',
     url: siteUrl,
     siteName: 'JK Distro Shop',
     images: [

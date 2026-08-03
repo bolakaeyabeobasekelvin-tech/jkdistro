@@ -41,7 +41,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   const title = `${product.title} - JK Distro | Buy THCa Online`;
-  const description = `${product.description ? product.description.slice(0, 150) : product.title}. Buy ${product.title} online at JK Distro Shop. 100% lab-tested, top-shelf quality with fast, discreet shipping.`;
+  const rawDesc = product.description && product.description.length > 20 
+    ? product.description.replace(/\n/g, ' ').replace(/\s+/g, ' ').trim() 
+    : `Buy ${product.title} online at JK Distro Shop. 100% lab-tested quality with fast, discreet shipping.`;
+  const description = rawDesc.length > 150 ? rawDesc.slice(0, 147) + '...' : rawDesc;
   const canonicalUrl = `${siteUrl}/product/${product.slug}`;
   const imageUrl = product.images?.[0] || 'https://drive.google.com/uc?export=view&id=1rVkEqfSLShLjuw_-Z_njoIYKJia-N9z8';
 

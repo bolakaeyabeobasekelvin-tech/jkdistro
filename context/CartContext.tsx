@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useState, useEffect } from 'react';
+import React, { createContext, useContext, useState, useSyncExternalStore, useMemo } from 'react';
 
 export interface CartItem {
   id: string;
@@ -108,46 +108,69 @@ interface CartContextType {
   setCartOpen: (open: boolean) => void;
 }
 
+const subscribeStorage = (callback: () => void) => {
+  if (typeof window === 'undefined') return () => {};
+  window.addEventListener('storage', callback);
+  window.addEventListener('jkd_cart_change', callback);
+  return () => {
+    window.removeEventListener('storage', callback);
+    window.removeEventListener('jkd_cart_change', callback);
+  };
+};
+
+const getCartSnapshot = () => {
+  if (typeof window === 'undefined') return '[]';
+  try {
+    return localStorage.getItem('jkd_cart') || '[]';
+  } catch {
+    return '[]';
+  }
+};
+
+const getCartServerSnapshot = () => '[]';
+
 const CartContext = createContext<CartContextType | undefined>(undefined);
 
 export function CartProvider({ children }: { children: React.ReactNode }) {
-  const [cart, setCart] = useState<CartItem[]>(() => {
-    if (typeof window === 'undefined') return [];
+  const rawSavedCart = useSyncExternalStore(subscribeStorage, getCartSnapshot, getCartServerSnapshot);
+
+  const cart = useMemo(() => {
     try {
-      const saved = localStorage.getItem('jkd_cart');
-      return saved ? JSON.parse(saved) : [];
-    } catch (e) {
+      return JSON.parse(rawSavedCart) as CartItem[];
+    } catch {
       return [];
     }
-  });
+  }, [rawSavedCart]);
+
   const [cartOpen, setCartOpen] = useState(false);
   const [shippingMethod, setShippingMethod] = useState<ShippingMode>('standard');
 
-  // Save to localStorage when cart changes
-  useEffect(() => {
+  const saveCart = (newCart: CartItem[]) => {
     try {
-      localStorage.setItem('jkd_cart', JSON.stringify(cart));
+      localStorage.setItem('jkd_cart', JSON.stringify(newCart));
+      window.dispatchEvent(new Event('jkd_cart_change'));
     } catch (e) {
       console.error('Failed to save cart to localStorage', e);
     }
-  }, [cart]);
+  };
 
   const addToCart = (newItem: Omit<CartItem, 'quantity'> & { quantity?: number }) => {
     const qty = newItem.quantity || 1;
-    setCart((prev) => {
-      const existingIndex = prev.findIndex((i) => i.id === newItem.id && i.variantTitle === newItem.variantTitle);
-      if (existingIndex > -1) {
-        const updated = [...prev];
-        updated[existingIndex].quantity += qty;
-        return updated;
-      }
-      return [...prev, { ...newItem, quantity: qty }];
-    });
+    const existingIndex = cart.findIndex((i) => i.id === newItem.id && i.variantTitle === newItem.variantTitle);
+    let updated: CartItem[];
+    if (existingIndex > -1) {
+      updated = [...cart];
+      updated[existingIndex] = { ...updated[existingIndex], quantity: updated[existingIndex].quantity + qty };
+    } else {
+      updated = [...cart, { ...newItem, quantity: qty }];
+    }
+    saveCart(updated);
     setCartOpen(true);
   };
 
   const removeFromCart = (id: string) => {
-    setCart((prev) => prev.filter((item) => item.id !== id));
+    const updated = cart.filter((item) => item.id !== id);
+    saveCart(updated);
   };
 
   const updateQuantity = (id: string, qty: number) => {
@@ -155,13 +178,12 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
       removeFromCart(id);
       return;
     }
-    setCart((prev) =>
-      prev.map((item) => (item.id === id ? { ...item, quantity: qty } : item))
-    );
+    const updated = cart.map((item) => (item.id === id ? { ...item, quantity: qty } : item));
+    saveCart(updated);
   };
 
   const clearCart = () => {
-    setCart([]);
+    saveCart([]);
   };
 
   const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);

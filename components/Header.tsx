@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useSyncExternalStore } from 'react';
 import Link from 'next/link';
 import { Menu, X, ShoppingBag, Search, ChevronRight, Mail, Phone } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
@@ -9,13 +9,17 @@ import { SearchOverlay } from './SearchOverlay';
 import { Logo } from './Logo';
 import { useCart } from '@/context/CartContext';
 
+const subscribe = () => () => {};
+const getSnapshot = () => true;
+const getServerSnapshot = () => false;
+
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+  const isMounted = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
 
   const { totalItems, cartOpen, setCartOpen } = useCart();
-
 
   useEffect(() => {
     const handleScroll = () => {
@@ -75,9 +79,11 @@ export function Header() {
           <Logo light />
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-8 text-sm font-bold text-neutral-300">
+          <nav className="hidden lg:flex items-center gap-6 text-xs font-extrabold text-neutral-300">
             <Link href="/" className="hover:text-red-500 transition-colors uppercase">Home</Link>
             <Link href="/shop" className="hover:text-red-500 transition-colors uppercase">Shop</Link>
+            <Link href="/shop?category=flower" className="hover:text-red-500 transition-colors uppercase">Flower</Link>
+            <Link href="/shop?category=vapes" className="hover:text-red-500 transition-colors uppercase">Vapes</Link>
             <Link href="/about" className="hover:text-red-500 transition-colors uppercase">About</Link>
             <Link href="/contact" className="hover:text-red-500 transition-colors uppercase">Contact</Link>
           </nav>
@@ -103,7 +109,7 @@ export function Header() {
             >
               <ShoppingBag className="w-6 h-6" />
               <span className="absolute -top-1 -right-1 bg-red-600 text-white text-[10px] font-bold w-4 h-4 flex items-center justify-center rounded-full">
-                {totalItems}
+                {isMounted ? totalItems : 0}
               </span>
             </button>
             <Link 
@@ -143,17 +149,23 @@ export function Header() {
                   <X className="w-5 h-5" />
                 </button>
               </div>
-              <div className="flex-grow p-6 flex flex-col gap-6 text-lg font-bold">
-                <Link href="/" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-4 text-neutral-300 hover:text-red-500">
+              <div className="flex-grow p-6 flex flex-col gap-4 text-base font-bold overflow-y-auto">
+                <Link href="/" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
                   Home <ChevronRight className="w-4 h-4 text-neutral-600" />
                 </Link>
-                <Link href="/shop" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-4 text-neutral-300 hover:text-red-500">
-                  Shop <ChevronRight className="w-4 h-4 text-neutral-600" />
+                <Link href="/shop" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
+                  Shop Catalog <ChevronRight className="w-4 h-4 text-neutral-600" />
                 </Link>
-                <Link href="/about" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-4 text-neutral-300 hover:text-red-500">
+                <Link href="/shop?category=flower" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
+                  Premium Flower <ChevronRight className="w-4 h-4 text-neutral-600" />
+                </Link>
+                <Link href="/shop?category=vapes" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
+                  Disposables & Vapes <ChevronRight className="w-4 h-4 text-neutral-600" />
+                </Link>
+                <Link href="/about" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
                   About <ChevronRight className="w-4 h-4 text-neutral-600" />
                 </Link>
-                <Link href="/contact" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between pb-4 text-neutral-300 hover:text-red-500">
+                <Link href="/contact" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between pb-3 text-neutral-300 hover:text-red-500">
                   Contact <ChevronRight className="w-4 h-4 text-neutral-600" />
                 </Link>
               </div>

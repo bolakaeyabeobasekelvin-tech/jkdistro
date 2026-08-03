@@ -8,14 +8,15 @@ import { HeaderLogoBadge } from '@/components/HeaderLogoBadge';
 const siteUrl = 'https://jkdistroshop.com';
 
 export const metadata: Metadata = {
-  title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Concentrates',
+  title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & 10g Gummies',
   description:
-    'Browse the official JK Distro shop catalog for top-shelf indoor THCa flower, exotic strains, 7g specials, disposable vapes, and concentrates. Fast, 100% discreet shipping.',
+    'Browse the official JK Distro catalog for top-shelf THCa flower, disposable vapes, 10g gummies, and concentrates. Fast 100% discreet shipping.',
   keywords: [
     'JK Distro Shop',
     'JK Distro Catalog',
     'JK Distro THCa Flower',
     'JK Distro Disposable Vapes',
+    'JK Distro Gummies',
     'Buy THCa Flower Online',
     'JK Distro Shake',
     'JK Distro Top Shelf',
@@ -24,9 +25,9 @@ export const metadata: Metadata = {
     canonical: `${siteUrl}/shop`,
   },
   openGraph: {
-    title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & Concentrates',
+    title: 'JK Distro Shop | Buy THCa Flower, Disposable Vapes & 10g Gummies',
     description:
-      'Browse the official JK Distro shop catalog. Top-shelf THCa flower, disposable vapes, and 100% lab-tested hemp products shipped nationwide.',
+      'Browse the official JK Distro shop catalog for top-shelf THCa flower, vapes, 10g gummies, and 100% lab-tested hemp products shipped nationwide.',
     url: `${siteUrl}/shop`,
     siteName: 'JK Distro Shop',
     type: 'website',

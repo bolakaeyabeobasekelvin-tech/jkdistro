@@ -8,7 +8,7 @@ const siteUrl = 'https://jkdistroshop.com';
 export const metadata: Metadata = {
   title: 'Contact JK Distro | Customer Support & Wholesale Inquiries',
   description:
-    'Contact the official JK Distro support team for order tracking, product questions, or wholesale inquiries. Fast 24-hour response time at contact@jkdistroshop.com.',
+    'Get in touch with JK Distro customer support for order tracking, product questions, or wholesale inquiries. Fast response at contact@jkdistroshop.com.',
   keywords: [
     'Contact JK Distro',
     'JK Distro Support',

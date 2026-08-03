@@ -7,8 +7,8 @@ const categories = [
     image: 'https://drive.google.com/uc?export=view&id=1kRIAD1q5YL40CyFXlurA_1rd9iXfufAQ',
     slug: 'flower',
     subcategories: [
-      { name: 'Premium Ounce', slug: 'flower?sub=premium-ounce' },
-      { name: '7G Flower Special', slug: 'flower?sub=7g-special' }
+      { name: 'Premium Ounce', href: '/shop?category=flower' },
+      { name: '7G Flower Special', href: '/shop?category=flower' }
     ]
   },
   {
@@ -60,7 +60,7 @@ export function Categories() {
                     {category.subcategories.map((sub, i) => (
                       <Link 
                         key={i} 
-                        href={`/shop?category=${sub.slug}`}
+                        href={sub.href}
                         className="text-xs font-bold uppercase tracking-wider text-white bg-black/50 hover:bg-red-600 border border-white/20 backdrop-blur-sm px-3 py-1.5 rounded-full transition-colors"
                       >
                         {sub.name}

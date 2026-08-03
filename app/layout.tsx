@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     template: '%s | JK Distro Shop',
   },
   description:
-    'JK Distro is your #1 source for top-shelf THCa flower, disposable vapes, premium shake, and lab-tested hemp products. Enjoy fast, 100% discreet nationwide delivery.',
+    'JK Distro is your #1 source for top-shelf THCa flower, disposable vapes, and lab-tested hemp. Fast 100% discreet nationwide delivery.',
   keywords: [
     'JK Distro',
     'JK Distro Shop',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     url: siteUrl,
     title: 'JK Distro | Premium THCa Flower, Disposable Vapes & Hemp Shop',
     description:
-      'JK Distro is your #1 source for top-shelf THCa flower, disposable vapes, premium shake, and lab-tested hemp products. Fast 100% discreet nationwide delivery.',
+      'JK Distro is your #1 source for top-shelf THCa flower, disposable vapes, and lab-tested hemp. Fast 100% discreet nationwide delivery.',
     siteName: 'JK Distro Shop',
     images: [
       {

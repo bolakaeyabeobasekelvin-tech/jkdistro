@@ -7,7 +7,7 @@ const siteUrl = 'https://jkdistroshop.com';
 export const metadata: Metadata = {
   title: 'About JK Distro | Premier Online Hemp & THCa Distributor',
   description:
-    'Learn why JK Distro is the leading choice for top-shelf THCa flower, disposable vapes, and shake with 100% lab tested transparency and discreet nationwide shipping.',
+    'Learn why JK Distro is the trusted distributor for top-shelf THCa flower, vapes, and gummies with lab-tested purity and discreet delivery.',
   keywords: [
     'About JK Distro',
     'JK Distro Shop',
