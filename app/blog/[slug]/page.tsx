@@ -1067,6 +1067,32 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     },
   };
 
+  // Breadcrumb Schema
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: siteUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Journal & Blog',
+        item: `${siteUrl}/blog`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: article.title,
+        item: canonicalUrl,
+      },
+    ],
+  };
+
   // FAQ Schema if FAQs exist
   const faqSchema = article.faqs ? {
     '@context': 'https://schema.org',
@@ -1086,6 +1112,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       {faqSchema && (
         <script

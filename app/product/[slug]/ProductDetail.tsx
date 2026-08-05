@@ -24,6 +24,7 @@ interface Product {
   reviews: number;
   description: string;
   variants: Variant[];
+  seoKeywords?: string[];
 }
 
 export function ProductDetail({ product }: { product: Product }) {
@@ -82,9 +83,22 @@ export function ProductDetail({ product }: { product: Product }) {
             <div className="text-3xl font-black text-neutral-900 mb-6">
               ${currentPrice.toFixed(2)}
             </div>
-            <p className="text-neutral-600 leading-relaxed font-medium mb-8">
+            <p className="text-neutral-600 leading-relaxed font-medium mb-6 whitespace-pre-line">
               {product.description}
             </p>
+
+            {product.seoKeywords && product.seoKeywords.length > 0 && (
+              <div className="mb-8 pt-4 border-t border-neutral-100">
+                <h4 className="text-xs font-bold uppercase tracking-wider text-neutral-400 mb-2.5">Related Strain Topics & Keywords</h4>
+                <div className="flex flex-wrap gap-1.5">
+                  {product.seoKeywords.map((tag, idx) => (
+                    <span key={idx} className="bg-neutral-100 text-neutral-600 text-[11px] font-semibold px-2.5 py-1 rounded-full border border-neutral-200 hover:border-red-300 hover:text-red-600 transition-colors">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           {product.variants && product.variants.length > 1 && (

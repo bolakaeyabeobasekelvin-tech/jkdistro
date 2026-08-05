@@ -52,6 +52,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title,
     description,
     keywords: [
+      ...(product.seoKeywords || []),
       product.title,
       'JK Distro',
       'JK Distro Shop',
@@ -59,6 +60,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       product.category,
       'THCa Flower',
       'Buy THCa Online',
+      'High Potency THCa',
+      'Discreet Shipping THCa',
     ],
     alternates: {
       canonical: canonicalUrl,

@@ -8,7 +8,16 @@ const categories = [
     slug: 'flower',
     subcategories: [
       { name: 'Premium Ounce', href: '/shop?category=flower' },
-      { name: '7G Flower Special', href: '/shop?category=flower' }
+      { name: '7G Special', href: '/shop?category=flower' }
+    ]
+  },
+  {
+    name: 'THCa Gummies & Edibles',
+    image: 'https://lh3.googleusercontent.com/d/1ZgzMkHK_UISBMBkzohMoaH7gjOAjy6R2',
+    slug: 'gummies',
+    subcategories: [
+      { name: 'Gummy Bears', href: '/shop?category=gummies' },
+      { name: 'Sour Gummies', href: '/shop?category=gummies' }
     ]
   },
   {
@@ -35,7 +44,7 @@ export function Categories() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8">
           {categories.map((category) => (
              <div key={category.slug} className="group relative aspect-[16/9] md:aspect-[3/2] overflow-hidden bg-neutral-100 border border-neutral-200 rounded-2xl hover:border-red-600/50 hover:shadow-lg transition-all flex flex-col justify-end">
               <Image

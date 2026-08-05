@@ -2,8 +2,8 @@
   {
     "id": "10242823225592",
     "title": "Fruit Funk THCA Flower (Indica)",
-    "basePrice": 9.99,
-    "discountPrice": 6.99,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.97,
     "reviews": 31,
     "images": [
@@ -16,34 +16,46 @@
       {
         "id": "50071859233015",
         "title": "3.5 Grams",
-        "price": 6.99,
+        "price": 25,
         "sku": "JK-DISTRO-FRUIT-FUNK-RL-3.5G"
       },
       {
         "id": "50071859233016",
         "title": "7 Grams",
-        "price": 10.97,
+        "price": 45,
         "sku": "JK-DISTRO-FRUIT-FUNK-RL-7G"
       },
       {
         "id": "50071859233017",
         "title": "14 Grams",
-        "price": 21.99,
+        "price": 80,
         "sku": "JK-DISTRO-FRUIT-FUNK-RL-14G"
       },
       {
         "id": "50071859265784",
         "title": "1 Ounce",
-        "price": 42.00,
+        "price": 140,
         "sku": "JK-DISTRO-FRUIT-FUNK-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Fruit Funk",
+      "Fruit Funk strain",
+      "Fruit Funk THCa flower",
+      "buy Fruit Funk online",
+      "JK Distro Fruit Funk",
+      "Fruit Funk strain review",
+      "Fruit Funk strain effects",
+      "Fruit Funk strain terpenes",
+      "cheap THCa Fruit Funk",
+      "best Fruit Funk strain"
     ]
   },
   {
     "id": "10237051568376",
     "title": "Gush Mintz THCA Flower (Indica)",
-    "basePrice": 9.99,
-    "discountPrice": 6.99,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.83,
     "reviews": 30,
     "images": [
@@ -56,27 +68,39 @@
       {
         "id": "50054273335543",
         "title": "3.5 Grams",
-        "price": 6.99,
+        "price": 25,
         "sku": "JK-DISTRO-GUSH-MINTZ-RL-3.5G"
       },
       {
         "id": "50054273335544",
         "title": "7 Grams",
-        "price": 10.97,
+        "price": 45,
         "sku": "JK-DISTRO-GUSH-MINTZ-RL-7G"
       },
       {
         "id": "50054273335545",
         "title": "14 Grams",
-        "price": 21.99,
+        "price": 80,
         "sku": "JK-DISTRO-GUSH-MINTZ-RL-14G"
       },
       {
         "id": "50054273368312",
         "title": "1 Ounce",
-        "price": 42.00,
+        "price": 140,
         "sku": "JK-DISTRO-GUSH-MINTZ-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Gush Mintz",
+      "Gush Mintz strain",
+      "Gush Mintz THCa flower",
+      "buy Gush Mintz online",
+      "JK Distro Gush Mintz",
+      "Gush Mintz strain review",
+      "Gush Mintz strain effects",
+      "Gush Mintz strain terpenes",
+      "cheap THCa Gush Mintz",
+      "best Gush Mintz strain"
     ]
   },
   {
@@ -123,13 +147,25 @@
         "price": 19.95,
         "sku": "JK-THCA-SHAKE-RED-SLUSHIE-28G"
       }
+    ],
+    "seoKeywords": [
+      "THCA Shake (Purple Label)",
+      "THCA Shake (Purple Label) strain",
+      "THCA Shake (Purple Label) THCa flower",
+      "buy THCA Shake (Purple Label) online",
+      "JK Distro THCA Shake (Purple Label)",
+      "THCA Shake (Purple Label) strain review",
+      "THCA Shake (Purple Label) strain effects",
+      "THCA Shake (Purple Label) strain terpenes",
+      "cheap THCa THCA Shake (Purple Label)",
+      "best THCA Shake (Purple Label) strain"
     ]
   },
   {
     "id": "10216448557304",
     "title": "Durban Z THCA Flower (Sativa)",
-    "basePrice": 24.00,
-    "discountPrice": 18.00,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.78,
     "reviews": 103,
     "images": [
@@ -142,34 +178,46 @@
       {
         "id": "49980654682359",
         "title": "3.5 Grams",
-        "price": 18.00,
+        "price": 25,
         "sku": "JK-DISTRO-DURBAN-Z-RL-3.5G"
       },
       {
         "id": "49980654682360",
         "title": "7 Grams",
-        "price": 32.00,
+        "price": 45,
         "sku": "JK-DISTRO-DURBAN-Z-RL-7G"
       },
       {
         "id": "49980654682361",
         "title": "14 Grams",
-        "price": 62.00,
+        "price": 80,
         "sku": "JK-DISTRO-DURBAN-Z-RL-14G"
       },
       {
         "id": "49980654715128",
         "title": "1 Ounce",
-        "price": 120.00,
+        "price": 140,
         "sku": "JK-DISTRO-DURBAN-Z-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Durban Z",
+      "Durban Z strain",
+      "Durban Z THCa flower",
+      "buy Durban Z online",
+      "JK Distro Durban Z",
+      "Durban Z strain review",
+      "Durban Z strain effects",
+      "Durban Z strain terpenes",
+      "cheap THCa Durban Z",
+      "best Durban Z strain"
     ]
   },
   {
     "id": "10216384233720",
     "title": "Green Goblin THCA Flower (Sativa)",
-    "basePrice": 9.99,
-    "discountPrice": 6.99,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.5,
     "reviews": 39,
     "images": [
@@ -182,34 +230,46 @@
       {
         "id": "49980439429367",
         "title": "3.5 Grams",
-        "price": 6.99,
+        "price": 25,
         "sku": "JK-DISTRO-GREEN-GOBLIN-RL-3.5G"
       },
       {
         "id": "49980439429368",
         "title": "7 Grams",
-        "price": 10.97,
+        "price": 45,
         "sku": "JK-DISTRO-GREEN-GOBLIN-RL-7G"
       },
       {
         "id": "49980439429369",
         "title": "14 Grams",
-        "price": 21.99,
+        "price": 80,
         "sku": "JK-DISTRO-GREEN-GOBLIN-RL-14G"
       },
       {
         "id": "49980439462136",
         "title": "1 Ounce",
-        "price": 42.00,
+        "price": 140,
         "sku": "JK-DISTRO-GREEN-GOBLIN-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Green Goblin",
+      "Green Goblin strain",
+      "Green Goblin THCa flower",
+      "buy Green Goblin online",
+      "JK Distro Green Goblin",
+      "Green Goblin strain review",
+      "Green Goblin strain effects",
+      "Green Goblin strain terpenes",
+      "cheap THCa Green Goblin",
+      "best Green Goblin strain"
     ]
   },
   {
     "id": "10216382464248",
     "title": "Platinum Truffle THCA Flower (Sativa)",
-    "basePrice": 9.99,
-    "discountPrice": 6.99,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.99,
     "reviews": 28,
     "images": [
@@ -222,34 +282,46 @@
       {
         "id": "49980430811383",
         "title": "3.5 Grams",
-        "price": 6.99,
+        "price": 25,
         "sku": "JK-DISTRO-PLATINUM-TRUFFLE-RL-3.5G"
       },
       {
         "id": "49980430811384",
         "title": "7 Grams",
-        "price": 10.97,
+        "price": 45,
         "sku": "JK-DISTRO-PLATINUM-TRUFFLE-RL-7G"
       },
       {
         "id": "49980430811385",
         "title": "14 Grams",
-        "price": 21.99,
+        "price": 80,
         "sku": "JK-DISTRO-PLATINUM-TRUFFLE-RL-14G"
       },
       {
         "id": "49980430844152",
         "title": "1 Ounce",
-        "price": 42.00,
+        "price": 140,
         "sku": "JK-DISTRO-PLATINUM-TRUFFLE-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Platinum Truffle",
+      "Platinum Truffle strain",
+      "Platinum Truffle THCa flower",
+      "buy Platinum Truffle online",
+      "JK Distro Platinum Truffle",
+      "Platinum Truffle strain review",
+      "Platinum Truffle strain effects",
+      "Platinum Truffle strain terpenes",
+      "cheap THCa Platinum Truffle",
+      "best Platinum Truffle strain"
     ]
   },
   {
     "id": "10216374894840",
     "title": "Lemon OG THCA Flower (Indica)",
-    "basePrice": 9.99,
-    "discountPrice": 6.99,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.51,
     "reviews": 47,
     "images": [
@@ -262,27 +334,39 @@
       {
         "id": "49980390408439",
         "title": "3.5 Grams",
-        "price": 6.99,
+        "price": 25,
         "sku": "JK-DISTRO-LEMON-OG-RL-3.5G"
       },
       {
         "id": "49980390408440",
         "title": "7 Grams",
-        "price": 10.97,
+        "price": 45,
         "sku": "JK-DISTRO-LEMON-OG-RL-7G"
       },
       {
         "id": "49980390408441",
         "title": "14 Grams",
-        "price": 21.99,
+        "price": 80,
         "sku": "JK-DISTRO-LEMON-OG-RL-14G"
       },
       {
         "id": "49980390441208",
         "title": "1 Ounce",
-        "price": 42.00,
+        "price": 140,
         "sku": "JK-DISTRO-LEMON-OG-RL-28G"
       }
+    ],
+    "seoKeywords": [
+      "Lemon OG",
+      "Lemon OG strain",
+      "Lemon OG THCa flower",
+      "buy Lemon OG online",
+      "JK Distro Lemon OG",
+      "Lemon OG strain review",
+      "Lemon OG strain effects",
+      "Lemon OG strain terpenes",
+      "cheap THCa Lemon OG",
+      "best Lemon OG strain"
     ]
   },
   {
@@ -297,7 +381,7 @@
     ],
     "category": "vapes",
     "slug": "super-sour-diesel-thca-vape",
-    "description": "Super Sour Diesel THCA Vape",
+    "description": "Super Sour Diesel THCA Vape (Super Sour Diesel THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Super Sour Diesel THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nSuper Sour Diesel THCA Vape",
     "variants": [
       {
         "id": "49961211035896",
@@ -305,6 +389,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Super Sour Diesel THCA Vape",
+      "Super Sour Diesel THCA Vape strain",
+      "Super Sour Diesel THCA Vape THCa flower",
+      "buy Super Sour Diesel THCA Vape online",
+      "JK Distro Super Sour Diesel THCA Vape",
+      "Super Sour Diesel THCA Vape strain review",
+      "Super Sour Diesel THCA Vape strain effects",
+      "Super Sour Diesel THCA Vape strain terpenes",
+      "cheap THCa Super Sour Diesel THCA Vape",
+      "best Super Sour Diesel THCA Vape strain"
     ]
   },
   {
@@ -319,7 +415,7 @@
     ],
     "category": "vapes",
     "slug": "fruit-funk-thca-vape",
-    "description": "Fruit Funk THCA Vape",
+    "description": "Fruit Funk THCA Vape (Fruit Funk THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Fruit Funk THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nFruit Funk THCA Vape",
     "variants": [
       {
         "id": "49961166176504",
@@ -327,6 +423,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Fruit Funk THCA Vape",
+      "Fruit Funk THCA Vape strain",
+      "Fruit Funk THCA Vape THCa flower",
+      "buy Fruit Funk THCA Vape online",
+      "JK Distro Fruit Funk THCA Vape",
+      "Fruit Funk THCA Vape strain review",
+      "Fruit Funk THCA Vape strain effects",
+      "Fruit Funk THCA Vape strain terpenes",
+      "cheap THCa Fruit Funk THCA Vape",
+      "best Fruit Funk THCA Vape strain"
     ]
   },
   {
@@ -341,7 +449,7 @@
     ],
     "category": "vapes",
     "slug": "galaxy-thca-vape",
-    "description": "Galaxy THCA Vape",
+    "description": "Galaxy THCA Vape (Galaxy THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Galaxy THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nGalaxy THCA Vape",
     "variants": [
       {
         "id": "49961159590136",
@@ -349,6 +457,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Galaxy THCA Vape",
+      "Galaxy THCA Vape strain",
+      "Galaxy THCA Vape THCa flower",
+      "buy Galaxy THCA Vape online",
+      "JK Distro Galaxy THCA Vape",
+      "Galaxy THCA Vape strain review",
+      "Galaxy THCA Vape strain effects",
+      "Galaxy THCA Vape strain terpenes",
+      "cheap THCa Galaxy THCA Vape",
+      "best Galaxy THCA Vape strain"
     ]
   },
   {
@@ -363,7 +483,7 @@
     ],
     "category": "vapes",
     "slug": "sapphire-kush-thca-vape",
-    "description": "Sapphire Kush THCA Vape",
+    "description": "Sapphire Kush THCA Vape (Sapphire Kush THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Sapphire Kush THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nSapphire Kush THCA Vape",
     "variants": [
       {
         "id": "49961159524600",
@@ -371,6 +491,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Sapphire Kush THCA Vape",
+      "Sapphire Kush THCA Vape strain",
+      "Sapphire Kush THCA Vape THCa flower",
+      "buy Sapphire Kush THCA Vape online",
+      "JK Distro Sapphire Kush THCA Vape",
+      "Sapphire Kush THCA Vape strain review",
+      "Sapphire Kush THCA Vape strain effects",
+      "Sapphire Kush THCA Vape strain terpenes",
+      "cheap THCa Sapphire Kush THCA Vape",
+      "best Sapphire Kush THCA Vape strain"
     ]
   },
   {
@@ -385,7 +517,7 @@
     ],
     "category": "vapes",
     "slug": "toad-venom-thca-vape",
-    "description": "Toad Venom THCA Vape",
+    "description": "Toad Venom THCA Vape (Toad Venom THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Toad Venom THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nToad Venom THCA Vape",
     "variants": [
       {
         "id": "49961159491832",
@@ -393,6 +525,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Toad Venom THCA Vape",
+      "Toad Venom THCA Vape strain",
+      "Toad Venom THCA Vape THCa flower",
+      "buy Toad Venom THCA Vape online",
+      "JK Distro Toad Venom THCA Vape",
+      "Toad Venom THCA Vape strain review",
+      "Toad Venom THCA Vape strain effects",
+      "Toad Venom THCA Vape strain terpenes",
+      "cheap THCa Toad Venom THCA Vape",
+      "best Toad Venom THCA Vape strain"
     ]
   },
   {
@@ -407,7 +551,7 @@
     ],
     "category": "vapes",
     "slug": "dragon-breath-thca-vape",
-    "description": "Dragon Breath THCA Vape",
+    "description": "Dragon Breath THCA Vape (Dragon Breath THCA Vape strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Dragon Breath THCA Vape strain THCa flower online today with fast, discreet shipping nationwide. \n\nDragon Breath THCA Vape",
     "variants": [
       {
         "id": "49961158869240",
@@ -415,6 +559,18 @@
         "price": 24.95,
         "sku": ""
       }
+    ],
+    "seoKeywords": [
+      "Dragon Breath THCA Vape",
+      "Dragon Breath THCA Vape strain",
+      "Dragon Breath THCA Vape THCa flower",
+      "buy Dragon Breath THCA Vape online",
+      "JK Distro Dragon Breath THCA Vape",
+      "Dragon Breath THCA Vape strain review",
+      "Dragon Breath THCA Vape strain effects",
+      "Dragon Breath THCA Vape strain terpenes",
+      "cheap THCa Dragon Breath THCA Vape",
+      "best Dragon Breath THCA Vape strain"
     ]
   },
   {
@@ -429,7 +585,7 @@
     ],
     "category": "trim",
     "slug": "thca-top-shelf-trim",
-    "description": "Bulk THCA Trim – Top Shelf Flower (Sold by the Ounce)\nGet premium value without sacrificing quality. Our \nBulk THCA Trim\n is sourced from \ntop shelf flower\n, giving you a blend packed with visible trichomes and rich terpene character. This trim is \npre-ground and ready to use\n, making it a convenient option for mixing with your favorite flower, filling bowls, or rolling into pre-rolls.\nEach ounce contains quality trim collected from premium cultivars, offering a flavorful and aromatic experience while helping you stretch your flower further. The fine consistency makes preparation simple and efficient with no extra grinding needed.\nBecause this trim comes from \npremium flower\n, it will often have a \ndarker appearance\n, including deeper green and purple hues commonly found in exotic genetics. Color may vary from batch to batch, but the darker tones are a natural characteristic of the source material and top shelf flower varieties.\nProduct Highlights:\nSold by the ounce and quarter pound\nSourced from exotic top shelf flower\nPre-ground and ready to use\nNaturally rich in trichomes\nAromatic terpene profile\nOften features darker purple and green coloration from exotic flower genetics\nGreat for blending, bowls, and pre-roll preparation\nConvenient bulk option for everyday use\nPremium trim, premium value — a versatile addition for anyone looking to maximize quality and convenience.\nContains hemp-derived THCA. Check local laws before purchasing or use.\nCertificate of Analysis",
+    "description": "Bulk THCA Trim – Top Shelf Trim (Bulk THCA Trim – Top Shelf Trim strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order Bulk THCA Trim – Top Shelf Trim strain THCa flower online today with fast, discreet shipping nationwide. \n\nBulk THCA Trim – Top Shelf Flower (Sold by the Ounce)\nGet premium value without sacrificing quality. Our \nBulk THCA Trim\n is sourced from \ntop shelf flower\n, giving you a blend packed with visible trichomes and rich terpene character. This trim is \npre-ground and ready to use\n, making it a convenient option for mixing with your favorite flower, filling bowls, or rolling into pre-rolls.\nEach ounce contains quality trim collected from premium cultivars, offering a flavorful and aromatic experience while helping you stretch your flower further. The fine consistency makes preparation simple and efficient with no extra grinding needed.\nBecause this trim comes from \npremium flower\n, it will often have a \ndarker appearance\n, including deeper green and purple hues commonly found in exotic genetics. Color may vary from batch to batch, but the darker tones are a natural characteristic of the source material and top shelf flower varieties.\nProduct Highlights:\nSold by the ounce and quarter pound\nSourced from exotic top shelf flower\nPre-ground and ready to use\nNaturally rich in trichomes\nAromatic terpene profile\nOften features darker purple and green coloration from exotic flower genetics\nGreat for blending, bowls, and pre-roll preparation\nConvenient bulk option for everyday use\nPremium trim, premium value — a versatile addition for anyone looking to maximize quality and convenience.\nContains hemp-derived THCA. Check local laws before purchasing or use.\nCertificate of Analysis",
     "variants": [
       {
         "id": "48445230514424",
@@ -449,72 +605,174 @@
         "price": 17.95,
         "sku": "JK-THCA-TRIM-BLUE-DREAM-28G"
       }
+    ],
+    "seoKeywords": [
+      "Bulk THCA Trim – Top Shelf Trim",
+      "Bulk THCA Trim – Top Shelf Trim strain",
+      "Bulk THCA Trim – Top Shelf Trim THCa flower",
+      "buy Bulk THCA Trim – Top Shelf Trim online",
+      "JK Distro Bulk THCA Trim – Top Shelf Trim",
+      "Bulk THCA Trim – Top Shelf Trim strain review",
+      "Bulk THCA Trim – Top Shelf Trim strain effects",
+      "Bulk THCA Trim – Top Shelf Trim strain terpenes",
+      "cheap THCa Bulk THCA Trim – Top Shelf Trim",
+      "best Bulk THCA Trim – Top Shelf Trim strain"
     ]
   },
   {
     "id": "9550266892536",
     "title": "Pink Runtz THCA",
-    "basePrice": 24.95,
-    "discountPrice": 35,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.6,
     "reviews": 66,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0827/8517/3752/files/JK-DISTRO-VAPE.png?v=1781812783"
+      "https://lh3.googleusercontent.com/d/1wQzTUwajHCWfqOOUjpIX0vq_aZgqUWe8"
     ],
-    "category": "vapes",
+    "category": "flower",
     "slug": "pink-runtz-thca-vape",
-    "description": "Pink Runtz THCA",
+    "description": "Pink Runtz THCA (runtz strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order runtz strain THCa flower online today with fast, discreet shipping nationwide. \n\nPink Runtz THCA",
     "variants": [
       {
-        "id": "48444014133496",
-        "title": "Default Title",
-        "price": 24.95,
-        "sku": ""
+        "id": "50100000121",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-RUNTZ-3.5G"
+      },
+      {
+        "id": "50100000122",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-RUNTZ-7G"
+      },
+      {
+        "id": "50100000123",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-RUNTZ-14G"
+      },
+      {
+        "id": "50100000124",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-RUNTZ-28G"
       }
+    ],
+    "seoKeywords": [
+      "Runtz",
+      "runtz strain",
+      "runtz THCa flower",
+      "buy runtz online",
+      "JK Distro runtz",
+      "runtz strain review",
+      "runtz strain effects",
+      "runtz strain terpenes",
+      "cheap THCa runtz",
+      "best runtz strain"
     ]
   },
   {
     "id": "9550240710904",
     "title": "GG4 THCA",
-    "basePrice": 24.95,
-    "discountPrice": 35,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.85,
     "reviews": 89,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0827/8517/3752/files/JK-DISTRO-VAPE.png?v=1781812783"
+      "https://lh3.googleusercontent.com/d/10STzHxJ35EJojf5hPDCb5OS96pXE8Lbg"
     ],
-    "category": "vapes",
+    "category": "flower",
     "slug": "gg4-thca-vape",
-    "description": "GG4 THCA",
+    "description": "GG4 THCA (gg4 strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order gg4 strain THCa flower online today with fast, discreet shipping nationwide. \n\nGG4 THCA",
     "variants": [
       {
-        "id": "48443978088696",
-        "title": "Default Title",
-        "price": 24.95,
-        "sku": ""
+        "id": "50100000151",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GG4-3.5G"
+      },
+      {
+        "id": "50100000152",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GG4-7G"
+      },
+      {
+        "id": "50100000153",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GG4-14G"
+      },
+      {
+        "id": "50100000154",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GG4-28G"
       }
+    ],
+    "seoKeywords": [
+      "Gg4",
+      "gg4 strain",
+      "gg4 THCa flower",
+      "buy gg4 online",
+      "JK Distro gg4",
+      "gg4 strain review",
+      "gg4 strain effects",
+      "gg4 strain terpenes",
+      "cheap THCa gg4",
+      "best gg4 strain"
     ]
   },
   {
     "id": "9550235926776",
     "title": "Green Crack THCA",
-    "basePrice": 24.95,
-    "discountPrice": 35,
+    "basePrice": 34.99,
+    "discountPrice": 25,
     "rating": 4.74,
     "reviews": 120,
     "images": [
-      "https://cdn.shopify.com/s/files/1/0827/8517/3752/files/JK-DISTRO-VAPE.png?v=1781812783"
+      "https://lh3.googleusercontent.com/d/1ZwIG02QjJD4TYnZ6lh4Cc2Cb3SWh3jSF"
     ],
-    "category": "vapes",
+    "category": "flower",
     "slug": "green-crack-thca-vape",
-    "description": "Green Crack THCA",
+    "description": "Green Crack THCA (green crack strain) - Premium THCa Flower available at JK Distro Shop. Hand-selected top shelf genetics featuring potent cannabinoid levels, intense terpene aromas, and smooth flavor profiles. Order green crack strain THCa flower online today with fast, discreet shipping nationwide. \n\nGreen Crack THCA",
     "variants": [
       {
-        "id": "48443973009656",
-        "title": "Default Title",
-        "price": 24.95,
-        "sku": ""
+        "id": "50100000191",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GREEN-CRACK-3.5G"
+      },
+      {
+        "id": "50100000192",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GREEN-CRACK-7G"
+      },
+      {
+        "id": "50100000193",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GREEN-CRACK-14G"
+      },
+      {
+        "id": "50100000194",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GREEN-CRACK-28G"
       }
+    ],
+    "seoKeywords": [
+      "Green Crack",
+      "green crack strain",
+      "green crack THCa flower",
+      "buy green crack online",
+      "JK Distro green crack",
+      "green crack strain review",
+      "green crack strain effects",
+      "green crack strain terpenes",
+      "cheap THCa green crack",
+      "best green crack strain"
     ]
   },
   {
@@ -543,6 +801,3373 @@
         "price": 64.95,
         "sku": "JK1466"
       }
+    ],
+    "seoKeywords": [
+      "Bulk THCA Shake",
+      "Bulk THCA Shake strain",
+      "Bulk THCA Shake THCa flower",
+      "buy Bulk THCA Shake online",
+      "JK Distro Bulk THCA Shake",
+      "Bulk THCA Shake strain review",
+      "Bulk THCA Shake strain effects",
+      "Bulk THCA Shake strain terpenes",
+      "cheap THCa Bulk THCA Shake",
+      "best Bulk THCA Shake strain"
+    ]
+  },
+  {
+    "id": "1024800000",
+    "title": "Cereal Milk THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.7,
+    "reviews": 18,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1KYqzcY489Sbs8EdtsRotmMQFd6IyMkXO"
+    ],
+    "category": "flower",
+    "slug": "cereal-milk-thca-flower-hybrid",
+    "description": "THCa:\n 22.000% \nTHC: \n19.000%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Cereal Milk THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/cereal-milk). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Cereal Milk delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCereal Milk is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000001",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-CEREAL-MILK-3.5G"
+      },
+      {
+        "id": "50100000002",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-CEREAL-MILK-7G"
+      },
+      {
+        "id": "50100000003",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-CEREAL-MILK-14G"
+      },
+      {
+        "id": "50100000004",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-CEREAL-MILK-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Cereal Milk",
+      "cereal milk strain",
+      "cereal milk THCa flower",
+      "buy cereal milk online",
+      "JK Distro cereal milk",
+      "cereal milk strain review",
+      "cereal milk strain effects",
+      "cereal milk strain terpenes",
+      "cheap THCa cereal milk",
+      "best cereal milk strain"
+    ]
+  },
+  {
+    "id": "1024800100",
+    "title": "Glitter Bomb THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.77,
+    "reviews": 31,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1G17t2I6xE5hM_YWpiHkymx6kVe5SNJjT"
+    ],
+    "category": "flower",
+    "slug": "glitter-bomb-thca-flower-indica",
+    "description": "THCa:\n 22.950% \nTHC: \n19.850%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Glitter Bomb THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/glitter-bomb). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Glitter Bomb delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGlitter Bomb is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000011",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GLITTER-BOMB-3.5G"
+      },
+      {
+        "id": "50100000012",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GLITTER-BOMB-7G"
+      },
+      {
+        "id": "50100000013",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GLITTER-BOMB-14G"
+      },
+      {
+        "id": "50100000014",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GLITTER-BOMB-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Glitter Bomb",
+      "glitter bomb strain",
+      "glitter bomb THCa flower",
+      "buy glitter bomb online",
+      "JK Distro glitter bomb",
+      "glitter bomb strain review",
+      "glitter bomb strain effects",
+      "glitter bomb strain terpenes",
+      "cheap THCa glitter bomb",
+      "best glitter bomb strain"
+    ]
+  },
+  {
+    "id": "1024800200",
+    "title": "Gorilla Glue #4 THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.84,
+    "reviews": 44,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1QPW4VrEg2hLBUPTwHhqlZ_gX1u1Olb5b"
+    ],
+    "category": "flower",
+    "slug": "gorilla-glue-4-thca-flower-hybrid",
+    "description": "THCa:\n 23.900% \nTHC: \n20.700%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Gorilla Glue #4 THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/gorilla-glue). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Gorilla Glue #4 delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGorilla Glue #4 is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000021",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GORILLA-GLUE-4-3.5G"
+      },
+      {
+        "id": "50100000022",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GORILLA-GLUE-4-7G"
+      },
+      {
+        "id": "50100000023",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GORILLA-GLUE-4-14G"
+      },
+      {
+        "id": "50100000024",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GORILLA-GLUE-4-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gorilla Glue",
+      "gorilla glue strain",
+      "gorilla glue THCa flower",
+      "buy gorilla glue online",
+      "JK Distro gorilla glue",
+      "gorilla glue strain review",
+      "gorilla glue strain effects",
+      "gorilla glue strain terpenes",
+      "cheap THCa gorilla glue",
+      "best gorilla glue strain"
+    ]
+  },
+  {
+    "id": "1024800300",
+    "title": "Pineapple Express THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.91,
+    "reviews": 57,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1mEDg0udOTwcgXDeVAhD_cKjbJrDboSXY"
+    ],
+    "category": "flower",
+    "slug": "pineapple-express-thca-flower-sativa",
+    "description": "THCa:\n 24.850% \nTHC: \n21.550%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Pineapple Express THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/pineapple-express). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Pineapple Express delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nPineapple Express is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000031",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-PINEAPPLE-EXPRESS-3.5G"
+      },
+      {
+        "id": "50100000032",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-PINEAPPLE-EXPRESS-7G"
+      },
+      {
+        "id": "50100000033",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-PINEAPPLE-EXPRESS-14G"
+      },
+      {
+        "id": "50100000034",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-PINEAPPLE-EXPRESS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Pineapple Express",
+      "pineapple express strain",
+      "pineapple express THCa flower",
+      "buy pineapple express online",
+      "JK Distro pineapple express",
+      "pineapple express strain review",
+      "pineapple express strain effects",
+      "pineapple express strain terpenes",
+      "cheap THCa pineapple express",
+      "best pineapple express strain"
+    ]
+  },
+  {
+    "id": "1024800400",
+    "title": "White Widow THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.98,
+    "reviews": 25,
+    "images": [
+      "https://lh3.googleusercontent.com/d/12YOWgf4vPkGUYmt6uP0CxFXogaFRVW7h"
+    ],
+    "category": "flower",
+    "slug": "white-widow-thca-flower-hybrid",
+    "description": "THCa:\n 25.800% \nTHC: \n22.400%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of White Widow THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/white-widow). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, White Widow delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nWhite Widow is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000041",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-WHITE-WIDOW-3.5G"
+      },
+      {
+        "id": "50100000042",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-WHITE-WIDOW-7G"
+      },
+      {
+        "id": "50100000043",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-WHITE-WIDOW-14G"
+      },
+      {
+        "id": "50100000044",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-WHITE-WIDOW-28G"
+      }
+    ],
+    "seoKeywords": [
+      "White Widow",
+      "White Widow strain",
+      "White Widow THCa flower",
+      "buy White Widow online",
+      "JK Distro White Widow",
+      "White Widow strain review",
+      "White Widow strain effects",
+      "White Widow strain terpenes",
+      "cheap THCa White Widow",
+      "best White Widow strain"
+    ]
+  },
+  {
+    "id": "1024800500",
+    "title": "Donny Burger THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.75,
+    "reviews": 38,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1iCMDeW0MJrBSDuqd2apGFLkwshpA-sjF"
+    ],
+    "category": "flower",
+    "slug": "donny-burger-thca-flower-indica",
+    "description": "THCa:\n 26.750% \nTHC: \n23.250%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Donny Burger THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/donny-burger). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Donny Burger delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nDonny Burger is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000051",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-DONNY-BURGER-3.5G"
+      },
+      {
+        "id": "50100000052",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-DONNY-BURGER-7G"
+      },
+      {
+        "id": "50100000053",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-DONNY-BURGER-14G"
+      },
+      {
+        "id": "50100000054",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-DONNY-BURGER-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Donny Burger",
+      "donny burger strain",
+      "donny burger THCa flower",
+      "buy donny burger online",
+      "JK Distro donny burger",
+      "donny burger strain review",
+      "donny burger strain effects",
+      "donny burger strain terpenes",
+      "cheap THCa donny burger",
+      "best donny burger strain"
+    ]
+  },
+  {
+    "id": "1024800600",
+    "title": "Gelato THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.82,
+    "reviews": 51,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1j9AQxn-HoaMSWTBCJilM-irCP8H8wyfT"
+    ],
+    "category": "flower",
+    "slug": "gelato-thca-flower-hybrid",
+    "description": "THCa:\n 27.700% \nTHC: \n19.000%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Gelato THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/gelato). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Gelato delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGelato is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000061",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GELATO-3.5G"
+      },
+      {
+        "id": "50100000062",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GELATO-7G"
+      },
+      {
+        "id": "50100000063",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GELATO-14G"
+      },
+      {
+        "id": "50100000064",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GELATO-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gelato",
+      "gelato strain",
+      "gelato THCa flower",
+      "buy gelato online",
+      "JK Distro gelato",
+      "gelato strain review",
+      "gelato strain effects",
+      "gelato strain terpenes",
+      "cheap THCa gelato",
+      "best gelato strain"
+    ]
+  },
+  {
+    "id": "1024800700",
+    "title": "Biscotti THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.89,
+    "reviews": 19,
+    "images": [
+      "https://lh3.googleusercontent.com/d/14drhWp3sYowzgM2Ki2V_Xhjrg69F28uM"
+    ],
+    "category": "flower",
+    "slug": "biscotti-thca-flower-indica",
+    "description": "THCa:\n 22.000% \nTHC: \n19.850%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Biscotti THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/biscotti). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Biscotti delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBiscotti is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000071",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BISCOTTI-3.5G"
+      },
+      {
+        "id": "50100000072",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BISCOTTI-7G"
+      },
+      {
+        "id": "50100000073",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BISCOTTI-14G"
+      },
+      {
+        "id": "50100000074",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BISCOTTI-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Biscotti",
+      "biscotti strain",
+      "biscotti THCa flower",
+      "buy biscotti online",
+      "JK Distro biscotti",
+      "biscotti strain review",
+      "biscotti strain effects",
+      "biscotti strain terpenes",
+      "cheap THCa biscotti",
+      "best biscotti strain"
+    ]
+  },
+  {
+    "id": "1024800800",
+    "title": "Apple Fritter THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.96,
+    "reviews": 32,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1YWwlZsToV3QrMuFPM4D-M4O4BNN7Vqoh"
+    ],
+    "category": "flower",
+    "slug": "apple-fritter-thca-flower-hybrid",
+    "description": "THCa:\n 22.950% \nTHC: \n20.700%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Apple Fritter THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/apple-fritter). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Apple Fritter delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nApple Fritter is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000081",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-APPLE-FRITTER-3.5G"
+      },
+      {
+        "id": "50100000082",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-APPLE-FRITTER-7G"
+      },
+      {
+        "id": "50100000083",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-APPLE-FRITTER-14G"
+      },
+      {
+        "id": "50100000084",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-APPLE-FRITTER-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Apple Fritter",
+      "apple fritter strain",
+      "apple fritter THCa flower",
+      "buy apple fritter online",
+      "JK Distro apple fritter",
+      "apple fritter strain review",
+      "apple fritter strain effects",
+      "apple fritter strain terpenes",
+      "cheap THCa apple fritter",
+      "best apple fritter strain"
+    ]
+  },
+  {
+    "id": "1024800900",
+    "title": "Super Boof THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.73,
+    "reviews": 45,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1vK7OJRW0Rg3mwzK0EG4V3s8vqyAvMpWs"
+    ],
+    "category": "flower",
+    "slug": "super-boof-thca-flower-hybrid",
+    "description": "THCa:\n 23.900% \nTHC: \n21.550%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Super Boof THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/super-boof). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Super Boof delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSuper Boof is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000091",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-SUPER-BOOF-3.5G"
+      },
+      {
+        "id": "50100000092",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-SUPER-BOOF-7G"
+      },
+      {
+        "id": "50100000093",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-SUPER-BOOF-14G"
+      },
+      {
+        "id": "50100000094",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-SUPER-BOOF-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Super Boof",
+      "super boof strain",
+      "super boof THCa flower",
+      "buy super boof online",
+      "JK Distro super boof",
+      "super boof strain review",
+      "super boof strain effects",
+      "super boof strain terpenes",
+      "cheap THCa super boof",
+      "best super boof strain"
+    ]
+  },
+  {
+    "id": "1024801000",
+    "title": "LA Kush Cake THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.8,
+    "reviews": 58,
+    "images": [
+      "https://lh3.googleusercontent.com/d/13bsSnEM_iw3PM04s5RVoTTDj4c6jJH3I"
+    ],
+    "category": "flower",
+    "slug": "la-kush-cake-thca-flower-indica",
+    "description": "THCa:\n 24.850% \nTHC: \n22.400%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of LA Kush Cake THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/la-kush-cake). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, LA Kush Cake delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nLA Kush Cake is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000101",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-LA-KUSH-CAKE-3.5G"
+      },
+      {
+        "id": "50100000102",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-LA-KUSH-CAKE-7G"
+      },
+      {
+        "id": "50100000103",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-LA-KUSH-CAKE-14G"
+      },
+      {
+        "id": "50100000104",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-LA-KUSH-CAKE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "La Kush Cake",
+      "la kush cake strain",
+      "la kush cake THCa flower",
+      "buy la kush cake online",
+      "JK Distro la kush cake",
+      "la kush cake strain review",
+      "la kush cake strain effects",
+      "la kush cake strain terpenes",
+      "cheap THCa la kush cake",
+      "best la kush cake strain"
+    ]
+  },
+  {
+    "id": "1024801100",
+    "title": "OG Kush THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.87,
+    "reviews": 26,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1Di2F49S8E1gS9oL3K56tIZKjjKohgTBA"
+    ],
+    "category": "flower",
+    "slug": "og-kush-thca-flower-hybrid",
+    "description": "THCa:\n 25.800% \nTHC: \n23.250%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of OG Kush THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/og-kush). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, OG Kush delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nOG Kush is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000111",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-OG-KUSH-3.5G"
+      },
+      {
+        "id": "50100000112",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-OG-KUSH-7G"
+      },
+      {
+        "id": "50100000113",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-OG-KUSH-14G"
+      },
+      {
+        "id": "50100000114",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-OG-KUSH-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Og Kush",
+      "og kush strain",
+      "og kush THCa flower",
+      "buy og kush online",
+      "JK Distro og kush",
+      "og kush strain review",
+      "og kush strain effects",
+      "og kush strain terpenes",
+      "cheap THCa og kush",
+      "best og kush strain"
+    ]
+  },
+  {
+    "id": "1024801300",
+    "title": "Cookies and Cream THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.71,
+    "reviews": 52,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1o_IjzHzus6gPbdxA3McpG8KOwYA6Bdm4"
+    ],
+    "category": "flower",
+    "slug": "cookies-and-cream-thca-flower-hybrid",
+    "description": "THCa:\n 27.700% \nTHC: \n19.850%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Cookies and Cream THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/cookies-and-cream). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Cookies and Cream delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCookies and Cream is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000131",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-COOKIES-AND-CREAM-3.5G"
+      },
+      {
+        "id": "50100000132",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-COOKIES-AND-CREAM-7G"
+      },
+      {
+        "id": "50100000133",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-COOKIES-AND-CREAM-14G"
+      },
+      {
+        "id": "50100000134",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-COOKIES-AND-CREAM-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Cookies And Cream",
+      "cookies and cream strain",
+      "cookies and cream THCa flower",
+      "buy cookies and cream online",
+      "JK Distro cookies and cream",
+      "cookies and cream strain review",
+      "cookies and cream strain effects",
+      "cookies and cream strain terpenes",
+      "cheap THCa cookies and cream",
+      "best cookies and cream strain"
+    ]
+  },
+  {
+    "id": "1024801400",
+    "title": "Cherry Pie THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.78,
+    "reviews": 20,
+    "images": [
+      "https://lh3.googleusercontent.com/d/19W90Zd6uXX7kXsae9zqRbfKy4q-Hoasu"
+    ],
+    "category": "flower",
+    "slug": "cherry-pie-thca-flower-hybrid",
+    "description": "THCa:\n 22.000% \nTHC: \n20.700%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Cherry Pie THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/cherry-pie). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Cherry Pie delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCherry Pie is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000141",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-CHERRY-PIE-3.5G"
+      },
+      {
+        "id": "50100000142",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-CHERRY-PIE-7G"
+      },
+      {
+        "id": "50100000143",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-CHERRY-PIE-14G"
+      },
+      {
+        "id": "50100000144",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-CHERRY-PIE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Cherry Pie",
+      "cherry pie strain",
+      "cherry pie THCa flower",
+      "buy cherry pie online",
+      "JK Distro cherry pie",
+      "cherry pie strain review",
+      "cherry pie strain effects",
+      "cherry pie strain terpenes",
+      "cheap THCa cherry pie",
+      "best cherry pie strain"
+    ]
+  },
+  {
+    "id": "1024801600",
+    "title": "Grape Gas THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.92,
+    "reviews": 46,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1qaEpHKrG_q7FIKA2OF8tJJpo9QgASjg2"
+    ],
+    "category": "flower",
+    "slug": "grape-gas-thca-flower-indica",
+    "description": "THCa:\n 23.900% \nTHC: \n22.400%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Grape Gas THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/grape-gas). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Grape Gas delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGrape Gas is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000161",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GRAPE-GAS-3.5G"
+      },
+      {
+        "id": "50100000162",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GRAPE-GAS-7G"
+      },
+      {
+        "id": "50100000163",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GRAPE-GAS-14G"
+      },
+      {
+        "id": "50100000164",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GRAPE-GAS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Grape Gas",
+      "grape gas strain",
+      "grape gas THCa flower",
+      "buy grape gas online",
+      "JK Distro grape gas",
+      "grape gas strain review",
+      "grape gas strain effects",
+      "grape gas strain terpenes",
+      "cheap THCa grape gas",
+      "best grape gas strain"
+    ]
+  },
+  {
+    "id": "1024801700",
+    "title": "Zoap THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.99,
+    "reviews": 59,
+    "images": [
+      "https://lh3.googleusercontent.com/d/16Hez2nRTEwFyqD69qJBheIcMgjUQf3TY"
+    ],
+    "category": "flower",
+    "slug": "zoap-thca-flower-hybrid",
+    "description": "THCa:\n 24.850% \nTHC: \n23.250%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Zoap THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/zoap). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Zoap delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nZoap is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000171",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-ZOAP-3.5G"
+      },
+      {
+        "id": "50100000172",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-ZOAP-7G"
+      },
+      {
+        "id": "50100000173",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-ZOAP-14G"
+      },
+      {
+        "id": "50100000174",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-ZOAP-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Zoap",
+      "zoap strain",
+      "zoap THCa flower",
+      "buy zoap online",
+      "JK Distro zoap",
+      "zoap strain review",
+      "zoap strain effects",
+      "zoap strain terpenes",
+      "cheap THCa zoap",
+      "best zoap strain"
+    ]
+  },
+  {
+    "id": "1024801800",
+    "title": "Cap Junky THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.76,
+    "reviews": 27,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1EP8tx48uuAg_4eI3o4BloglHv8wwdZ02"
+    ],
+    "category": "flower",
+    "slug": "cap-junky-thca-flower-hybrid",
+    "description": "THCa:\n 25.800% \nTHC: \n19.000%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Cap Junky THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/cap-junky). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Cap Junky delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCap Junky is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000181",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-CAP-JUNKY-3.5G"
+      },
+      {
+        "id": "50100000182",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-CAP-JUNKY-7G"
+      },
+      {
+        "id": "50100000183",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-CAP-JUNKY-14G"
+      },
+      {
+        "id": "50100000184",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-CAP-JUNKY-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Cap Junky",
+      "cap junky strain",
+      "cap junky THCa flower",
+      "buy cap junky online",
+      "JK Distro cap junky",
+      "cap junky strain review",
+      "cap junky strain effects",
+      "cap junky strain terpenes",
+      "cheap THCa cap junky",
+      "best cap junky strain"
+    ]
+  },
+  {
+    "id": "1024802000",
+    "title": "Blue Cookies THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.9,
+    "reviews": 53,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1KvxIJgVNEPPOrzbhr88PMV7czIoS1Q_H"
+    ],
+    "category": "flower",
+    "slug": "blue-cookies-thca-flower-indica",
+    "description": "THCa:\n 27.700% \nTHC: \n20.700%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Blue Cookies THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/blue-cookies). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Blue Cookies delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlue Cookies is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000201",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLUE-COOKIES-3.5G"
+      },
+      {
+        "id": "50100000202",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLUE-COOKIES-7G"
+      },
+      {
+        "id": "50100000203",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLUE-COOKIES-14G"
+      },
+      {
+        "id": "50100000204",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLUE-COOKIES-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Blue Cookies",
+      "blue cookies strain",
+      "blue cookies THCa flower",
+      "buy blue cookies online",
+      "JK Distro blue cookies",
+      "blue cookies strain review",
+      "blue cookies strain effects",
+      "blue cookies strain terpenes",
+      "cheap THCa blue cookies",
+      "best blue cookies strain"
+    ]
+  },
+  {
+    "id": "1024802100",
+    "title": "Sour Tangie THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.97,
+    "reviews": 21,
+    "images": [
+      "https://lh3.googleusercontent.com/d/11QIZrbq2EPd2h0sjaRPsjHKN8lryjAEt"
+    ],
+    "category": "flower",
+    "slug": "sour-tangie-thca-flower-sativa",
+    "description": "THCa:\n 22.000% \nTHC: \n21.550%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Sour Tangie THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/sour-tangie). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Sour Tangie delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSour Tangie is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000321",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-TANGIE-3.5G"
+      },
+      {
+        "id": "50100000322",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-TANGIE-7G"
+      },
+      {
+        "id": "50100000323",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-TANGIE-14G"
+      },
+      {
+        "id": "50100000324",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-TANGIE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Sour Tangie",
+      "sour tangie strain",
+      "sour tangie THCa flower",
+      "buy sour tangie online",
+      "JK Distro sour tangie",
+      "sour tangie strain review",
+      "sour tangie strain effects",
+      "sour tangie strain terpenes",
+      "cheap THCa sour tangie",
+      "best sour tangie strain"
+    ]
+  },
+  {
+    "id": "1024802200",
+    "title": "Bubblegum THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.74,
+    "reviews": 34,
+    "images": [
+      "https://lh3.googleusercontent.com/d/14hZTI5GylLp-0-bBhdPzsxCwA-2xe0pq"
+    ],
+    "category": "flower",
+    "slug": "bubblegum-thca-flower-hybrid",
+    "description": "THCa:\n 22.950% \nTHC: \n22.400%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Bubblegum THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/bubblegum). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Bubblegum delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBubblegum is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000221",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BUBBLEGUM-3.5G"
+      },
+      {
+        "id": "50100000222",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BUBBLEGUM-7G"
+      },
+      {
+        "id": "50100000223",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BUBBLEGUM-14G"
+      },
+      {
+        "id": "50100000224",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BUBBLEGUM-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Bubblegum",
+      "bubblegum strain",
+      "bubblegum THCa flower",
+      "buy bubblegum online",
+      "JK Distro bubblegum",
+      "bubblegum strain review",
+      "bubblegum strain effects",
+      "bubblegum strain terpenes",
+      "cheap THCa bubblegum",
+      "best bubblegum strain"
+    ]
+  },
+  {
+    "id": "1024802300",
+    "title": "Pink Lemonade THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.81,
+    "reviews": 47,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1AqbnCXhuYwizvdyhlTn6FOo-YNhhVoKV"
+    ],
+    "category": "flower",
+    "slug": "pink-lemonade-thca-flower-sativa",
+    "description": "THCa:\n 23.900% \nTHC: \n23.250%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Pink Lemonade THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/pink-lemonade). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Pink Lemonade delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nPink Lemonade is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000231",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-PINK-LEMONADE-3.5G"
+      },
+      {
+        "id": "50100000232",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-PINK-LEMONADE-7G"
+      },
+      {
+        "id": "50100000233",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-PINK-LEMONADE-14G"
+      },
+      {
+        "id": "50100000234",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-PINK-LEMONADE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Pink Lemonade",
+      "pink lemonade strain",
+      "pink lemonade THCa flower",
+      "buy pink lemonade online",
+      "JK Distro pink lemonade",
+      "pink lemonade strain review",
+      "pink lemonade strain effects",
+      "pink lemonade strain terpenes",
+      "cheap THCa pink lemonade",
+      "best pink lemonade strain"
+    ]
+  },
+  {
+    "id": "1024802400",
+    "title": "Slurricane THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.88,
+    "reviews": 60,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1xbxeey4cU4aGhnG6BqGaHKC8-6YRqYEC"
+    ],
+    "category": "flower",
+    "slug": "slurricane-thca-flower-indica",
+    "description": "THCa:\n 24.850% \nTHC: \n19.000%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Slurricane THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/slurricane). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Slurricane delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSlurricane is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000241",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-SLURRICANE-3.5G"
+      },
+      {
+        "id": "50100000242",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-SLURRICANE-7G"
+      },
+      {
+        "id": "50100000243",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-SLURRICANE-14G"
+      },
+      {
+        "id": "50100000244",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-SLURRICANE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Slurricane",
+      "slurricane strain",
+      "slurricane THCa flower",
+      "buy slurricane online",
+      "JK Distro slurricane",
+      "slurricane strain review",
+      "slurricane strain effects",
+      "slurricane strain terpenes",
+      "cheap THCa slurricane",
+      "best slurricane strain"
+    ]
+  },
+  {
+    "id": "1024802500",
+    "title": "Gelonade THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.95,
+    "reviews": 28,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1LIothZZqeULWbEt901HMxhmzUwENM3W0"
+    ],
+    "category": "flower",
+    "slug": "gelonade-thca-flower-sativa",
+    "description": "THCa:\n 25.800% \nTHC: \n19.850%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Gelonade THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/gelonade). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Gelonade delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGelonade is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000251",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GELONADE-3.5G"
+      },
+      {
+        "id": "50100000252",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GELONADE-7G"
+      },
+      {
+        "id": "50100000253",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GELONADE-14G"
+      },
+      {
+        "id": "50100000254",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GELONADE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gelonade",
+      "gelonade strain",
+      "gelonade THCa flower",
+      "buy gelonade online",
+      "JK Distro gelonade",
+      "gelonade strain review",
+      "gelonade strain effects",
+      "gelonade strain terpenes",
+      "cheap THCa gelonade",
+      "best gelonade strain"
+    ]
+  },
+  {
+    "id": "1024802600",
+    "title": "London Pound Cake THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.72,
+    "reviews": 41,
+    "images": [
+      "https://lh3.googleusercontent.com/d/19IFjSC7NJQjLAFB9WxCrBNYkgmYLtCLF"
+    ],
+    "category": "flower",
+    "slug": "london-pound-cake-thca-flower-indica",
+    "description": "THCa:\n 26.750% \nTHC: \n20.700%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of London Pound Cake THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/london-pound-cake). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, London Pound Cake delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nLondon Pound Cake is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000261",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-LONDON-POUND-CAKE-3.5G"
+      },
+      {
+        "id": "50100000262",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-LONDON-POUND-CAKE-7G"
+      },
+      {
+        "id": "50100000263",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-LONDON-POUND-CAKE-14G"
+      },
+      {
+        "id": "50100000264",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-LONDON-POUND-CAKE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "London Pound Cake",
+      "london pound cake strain",
+      "london pound cake THCa flower",
+      "buy london pound cake online",
+      "JK Distro london pound cake",
+      "london pound cake strain review",
+      "london pound cake strain effects",
+      "london pound cake strain terpenes",
+      "cheap THCa london pound cake",
+      "best london pound cake strain"
+    ]
+  },
+  {
+    "id": "1024802700",
+    "title": "Lemon Cherry Gelato THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.79,
+    "reviews": 54,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1TyGD1wU-M47Dt5GU9Hh33jlL_saPores"
+    ],
+    "category": "flower",
+    "slug": "lemon-cherry-gelato-thca-flower-hybrid",
+    "description": "THCa:\n 27.700% \nTHC: \n21.550%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Lemon Cherry Gelato THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/lemon-cherry-gelato). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Lemon Cherry Gelato delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nLemon Cherry Gelato is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000271",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-LEMON-CHERRY-GELATO-3.5G"
+      },
+      {
+        "id": "50100000272",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-LEMON-CHERRY-GELATO-7G"
+      },
+      {
+        "id": "50100000273",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-LEMON-CHERRY-GELATO-14G"
+      },
+      {
+        "id": "50100000274",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-LEMON-CHERRY-GELATO-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gelato",
+      "gelato strain",
+      "gelato THCa flower",
+      "buy gelato online",
+      "JK Distro gelato",
+      "gelato strain review",
+      "gelato strain effects",
+      "gelato strain terpenes",
+      "cheap THCa gelato",
+      "best gelato strain"
+    ]
+  },
+  {
+    "id": "1024802800",
+    "title": "Black Runtz THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.86,
+    "reviews": 22,
+    "images": [
+      "https://lh3.googleusercontent.com/d/14eqjI8Ua5zEFU3sHlqJMQdrn64hVKaz1"
+    ],
+    "category": "flower",
+    "slug": "black-runtz-thca-flower-indica",
+    "description": "THCa:\n 22.000% \nTHC: \n22.400%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Black Runtz THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/black-runtz). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Black Runtz delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlack Runtz is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000281",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLACK-RUNTZ-3.5G"
+      },
+      {
+        "id": "50100000282",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLACK-RUNTZ-7G"
+      },
+      {
+        "id": "50100000283",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLACK-RUNTZ-14G"
+      },
+      {
+        "id": "50100000284",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLACK-RUNTZ-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Black Runtz",
+      "black runtz strain",
+      "black runtz THCa flower",
+      "buy black runtz online",
+      "JK Distro black runtz",
+      "black runtz strain review",
+      "black runtz strain effects",
+      "black runtz strain terpenes",
+      "cheap THCa black runtz",
+      "best black runtz strain"
+    ]
+  },
+  {
+    "id": "1024802900",
+    "title": "GSC (Girl Scout Cookies) THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.93,
+    "reviews": 35,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1_1oMXYnEAH1x6erwGhUYCd2yhaiThqGW"
+    ],
+    "category": "flower",
+    "slug": "gsc-girl-scout-cookies-thca-flower-hybrid",
+    "description": "THCa:\n 22.950% \nTHC: \n23.250%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of GSC (Girl Scout Cookies) THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/gsc). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, GSC (Girl Scout Cookies) delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGSC (Girl Scout Cookies) is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000291",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GSC-GIRL-SCOUT-COOKIES-3.5G"
+      },
+      {
+        "id": "50100000292",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GSC-GIRL-SCOUT-COOKIES-7G"
+      },
+      {
+        "id": "50100000293",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GSC-GIRL-SCOUT-COOKIES-14G"
+      },
+      {
+        "id": "50100000294",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GSC-GIRL-SCOUT-COOKIES-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gsc",
+      "gsc strain",
+      "gsc THCa flower",
+      "buy gsc online",
+      "JK Distro gsc",
+      "gsc strain review",
+      "gsc strain effects",
+      "gsc strain terpenes",
+      "cheap THCa gsc",
+      "best gsc strain"
+    ]
+  },
+  {
+    "id": "1024803000",
+    "title": "Horchata THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.7,
+    "reviews": 48,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1W1XshXKgcXlRE3IpHYL92AP3jgBpIhHB"
+    ],
+    "category": "flower",
+    "slug": "horchata-thca-flower-hybrid",
+    "description": "THCa:\n 23.900% \nTHC: \n19.000%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Horchata THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/horchata). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Horchata delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nHorchata is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000301",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-HORCHATA-3.5G"
+      },
+      {
+        "id": "50100000302",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-HORCHATA-7G"
+      },
+      {
+        "id": "50100000303",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-HORCHATA-14G"
+      },
+      {
+        "id": "50100000304",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-HORCHATA-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Horchata",
+      "horchata strain",
+      "horchata THCa flower",
+      "buy horchata online",
+      "JK Distro horchata",
+      "horchata strain review",
+      "horchata strain effects",
+      "horchata strain terpenes",
+      "cheap THCa horchata",
+      "best horchata strain"
+    ]
+  },
+  {
+    "id": "1024803100",
+    "title": "King Louis XIII THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.77,
+    "reviews": 61,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1yHvi8dTrhiDK_a0re6BaZvjUUGXUDnYG"
+    ],
+    "category": "flower",
+    "slug": "king-louis-xiii-thca-flower-indica",
+    "description": "THCa:\n 24.850% \nTHC: \n19.850%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of King Louis XIII THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/king-louis-xiii). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, King Louis XIII delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nKing Louis XIII is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000441",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-KING-LOUIS-3.5G"
+      },
+      {
+        "id": "50100000442",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-KING-LOUIS-7G"
+      },
+      {
+        "id": "50100000443",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-KING-LOUIS-14G"
+      },
+      {
+        "id": "50100000444",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-KING-LOUIS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "King Louis",
+      "king louis strain",
+      "king louis THCa flower",
+      "buy king louis online",
+      "JK Distro king louis",
+      "king louis strain review",
+      "king louis strain effects",
+      "king louis strain terpenes",
+      "cheap THCa king louis",
+      "best king louis strain"
+    ]
+  },
+  {
+    "id": "1024803400",
+    "title": "Super Boot THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.98,
+    "reviews": 55,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1Asyr-gof8Eq1KWJE2Di7HFOh0fPCbiws"
+    ],
+    "category": "flower",
+    "slug": "super-boot-thca-flower-hybrid",
+    "description": "THCa:\n 27.700% \nTHC: \n22.400%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Super Boot THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/super-boot). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Super Boot delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSuper Boot is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000341",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-SUPER-BOOT-3.5G"
+      },
+      {
+        "id": "50100000342",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-SUPER-BOOT-7G"
+      },
+      {
+        "id": "50100000343",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-SUPER-BOOT-14G"
+      },
+      {
+        "id": "50100000344",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-SUPER-BOOT-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Super Boot",
+      "super boot strain",
+      "super boot THCa flower",
+      "buy super boot online",
+      "JK Distro super boot",
+      "super boot strain review",
+      "super boot strain effects",
+      "super boot strain terpenes",
+      "cheap THCa super boot",
+      "best super boot strain"
+    ]
+  },
+  {
+    "id": "1024803500",
+    "title": "Obama Runtz THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.75,
+    "reviews": 23,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1lz2J5qt_r37K8pkzBahfOhRnTYOFvDQW"
+    ],
+    "category": "flower",
+    "slug": "obama-runtz-thca-flower-hybrid",
+    "description": "THCa:\n 22.000% \nTHC: \n23.250%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Obama Runtz THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/obama-runtz). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Obama Runtz delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nObama Runtz is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000351",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-OBAMA-RUNTZ-3.5G"
+      },
+      {
+        "id": "50100000352",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-OBAMA-RUNTZ-7G"
+      },
+      {
+        "id": "50100000353",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-OBAMA-RUNTZ-14G"
+      },
+      {
+        "id": "50100000354",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-OBAMA-RUNTZ-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Obama Runtz",
+      "obama runtz strain",
+      "obama runtz THCa flower",
+      "buy obama runtz online",
+      "JK Distro obama runtz",
+      "obama runtz strain review",
+      "obama runtz strain effects",
+      "obama runtz strain terpenes",
+      "cheap THCa obama runtz",
+      "best obama runtz strain"
+    ]
+  },
+  {
+    "id": "1024803600",
+    "title": "Grease Monkey THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.82,
+    "reviews": 36,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1DaBBzP1d9j_0rIboFZeisEbY0HmKDKG_"
+    ],
+    "category": "flower",
+    "slug": "grease-monkey-thca-flower-indica",
+    "description": "THCa:\n 22.950% \nTHC: \n19.000%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Grease Monkey THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/grease-monkey). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Grease Monkey delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGrease Monkey is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000361",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GREASE-MONKEY-3.5G"
+      },
+      {
+        "id": "50100000362",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GREASE-MONKEY-7G"
+      },
+      {
+        "id": "50100000363",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GREASE-MONKEY-14G"
+      },
+      {
+        "id": "50100000364",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GREASE-MONKEY-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Grease Monkey",
+      "grease monkey strain",
+      "grease monkey THCa flower",
+      "buy grease monkey online",
+      "JK Distro grease monkey",
+      "grease monkey strain review",
+      "grease monkey strain effects",
+      "grease monkey strain terpenes",
+      "cheap THCa grease monkey",
+      "best grease monkey strain"
+    ]
+  },
+  {
+    "id": "1024803700",
+    "title": "Blue Zushi THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.89,
+    "reviews": 49,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1iKJil3z33ShhG3qqTIACOkjJMxG3ZMz2"
+    ],
+    "category": "flower",
+    "slug": "blue-zushi-thca-flower-indica",
+    "description": "THCa:\n 23.900% \nTHC: \n19.850%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Blue Zushi THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/blue-zushi). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Blue Zushi delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlue Zushi is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000371",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLUE-ZUSHI-3.5G"
+      },
+      {
+        "id": "50100000372",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLUE-ZUSHI-7G"
+      },
+      {
+        "id": "50100000373",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLUE-ZUSHI-14G"
+      },
+      {
+        "id": "50100000374",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLUE-ZUSHI-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Blue Zushi",
+      "blue zushi strain",
+      "blue zushi THCa flower",
+      "buy blue zushi online",
+      "JK Distro blue zushi",
+      "blue zushi strain review",
+      "blue zushi strain effects",
+      "blue zushi strain terpenes",
+      "cheap THCa blue zushi",
+      "best blue zushi strain"
+    ]
+  },
+  {
+    "id": "1024803800",
+    "title": "White Truffle THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.96,
+    "reviews": 62,
+    "images": [
+      "https://lh3.googleusercontent.com/d/158aLFx7R2oThvCBBwRE5wZ7V-zuEfXC1"
+    ],
+    "category": "flower",
+    "slug": "white-truffle-thca-flower-indica",
+    "description": "THCa:\n 24.850% \nTHC: \n20.700%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of White Truffle THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/white-truffle). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, White Truffle delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nWhite Truffle is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000381",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-WHITE-TRUFFLE-3.5G"
+      },
+      {
+        "id": "50100000382",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-WHITE-TRUFFLE-7G"
+      },
+      {
+        "id": "50100000383",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-WHITE-TRUFFLE-14G"
+      },
+      {
+        "id": "50100000384",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-WHITE-TRUFFLE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "White Truffle",
+      "white truffle strain",
+      "white truffle THCa flower",
+      "buy white truffle online",
+      "JK Distro white truffle",
+      "white truffle strain review",
+      "white truffle strain effects",
+      "white truffle strain terpenes",
+      "cheap THCa white truffle",
+      "best white truffle strain"
+    ]
+  },
+  {
+    "id": "1024803900",
+    "title": "Trainwreck THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.73,
+    "reviews": 30,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1_cFwG6rZzM0vMFxW3uChbdL14_DgXELe"
+    ],
+    "category": "flower",
+    "slug": "trainwreck-thca-flower-sativa",
+    "description": "THCa:\n 25.800% \nTHC: \n21.550%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Trainwreck THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/trainwreck). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Trainwreck delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nTrainwreck is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000391",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-TRAINWRECK-3.5G"
+      },
+      {
+        "id": "50100000392",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-TRAINWRECK-7G"
+      },
+      {
+        "id": "50100000393",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-TRAINWRECK-14G"
+      },
+      {
+        "id": "50100000394",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-TRAINWRECK-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Trainwreck",
+      "trainwreck strain",
+      "trainwreck THCa flower",
+      "buy trainwreck online",
+      "JK Distro trainwreck",
+      "trainwreck strain review",
+      "trainwreck strain effects",
+      "trainwreck strain terpenes",
+      "cheap THCa trainwreck",
+      "best trainwreck strain"
+    ]
+  },
+  {
+    "id": "1024804000",
+    "title": "Skywalker OG THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.8,
+    "reviews": 43,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1aB6WZ_7VbLQj6kRgJMkBzBTLXWTU9OQW"
+    ],
+    "category": "flower",
+    "slug": "skywalker-og-thca-flower-indica",
+    "description": "THCa:\n 26.750% \nTHC: \n22.400%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Skywalker OG THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/skywalker-og). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Skywalker OG delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSkywalker OG is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000401",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-SKYWALKER-OG-3.5G"
+      },
+      {
+        "id": "50100000402",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-SKYWALKER-OG-7G"
+      },
+      {
+        "id": "50100000403",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-SKYWALKER-OG-14G"
+      },
+      {
+        "id": "50100000404",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-SKYWALKER-OG-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Skywalker Og",
+      "skywalker og strain",
+      "skywalker og THCa flower",
+      "buy skywalker og online",
+      "JK Distro skywalker og",
+      "skywalker og strain review",
+      "skywalker og strain effects",
+      "skywalker og strain terpenes",
+      "cheap THCa skywalker og",
+      "best skywalker og strain"
+    ]
+  },
+  {
+    "id": "1024804100",
+    "title": "Blue Nerds THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.87,
+    "reviews": 56,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1sX-kzhc1pOkrpxyRRemDxOk3E1ixA5Z5"
+    ],
+    "category": "flower",
+    "slug": "blue-nerds-thca-flower-hybrid",
+    "description": "THCa:\n 27.700% \nTHC: \n23.250%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Blue Nerds THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/blue-nerds). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Blue Nerds delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlue Nerds is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000411",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLUE-NERDS-3.5G"
+      },
+      {
+        "id": "50100000412",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLUE-NERDS-7G"
+      },
+      {
+        "id": "50100000413",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLUE-NERDS-14G"
+      },
+      {
+        "id": "50100000414",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLUE-NERDS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Blue Nerds",
+      "blue nerds strain",
+      "blue nerds THCa flower",
+      "buy blue nerds online",
+      "JK Distro blue nerds",
+      "blue nerds strain review",
+      "blue nerds strain effects",
+      "blue nerds strain terpenes",
+      "cheap THCa blue nerds",
+      "best blue nerds strain"
+    ]
+  },
+  {
+    "id": "1024804200",
+    "title": "Blueberry Muffin THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.94,
+    "reviews": 24,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1KffjYCKAyq9LKrlNVKXR6GkTs3JcMT0k"
+    ],
+    "category": "flower",
+    "slug": "blueberry-muffin-thca-flower-indica",
+    "description": "THCa:\n 22.000% \nTHC: \n19.000%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Blueberry Muffin THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/blueberry-muffin). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Blueberry Muffin delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlueberry Muffin is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000421",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLUEBERRY-MUFFIN-3.5G"
+      },
+      {
+        "id": "50100000422",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLUEBERRY-MUFFIN-7G"
+      },
+      {
+        "id": "50100000423",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLUEBERRY-MUFFIN-14G"
+      },
+      {
+        "id": "50100000424",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLUEBERRY-MUFFIN-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Blueberry Muffin",
+      "blueberry muffin strain",
+      "blueberry muffin THCa flower",
+      "buy blueberry muffin online",
+      "JK Distro blueberry muffin",
+      "blueberry muffin strain review",
+      "blueberry muffin strain effects",
+      "blueberry muffin strain terpenes",
+      "cheap THCa blueberry muffin",
+      "best blueberry muffin strain"
+    ]
+  },
+  {
+    "id": "1024804300",
+    "title": "Romulan THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.71,
+    "reviews": 37,
+    "images": [
+      "https://lh3.googleusercontent.com/d/152Y-rJpnM9tgB3PIWw5xeH6ixnLU5vTc"
+    ],
+    "category": "flower",
+    "slug": "romulan-thca-flower-indica",
+    "description": "THCa:\n 22.950% \nTHC: \n19.850%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Romulan THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/romulan). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Romulan delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nRomulan is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000431",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-ROMULAN-3.5G"
+      },
+      {
+        "id": "50100000432",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-ROMULAN-7G"
+      },
+      {
+        "id": "50100000433",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-ROMULAN-14G"
+      },
+      {
+        "id": "50100000434",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-ROMULAN-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Romulan",
+      "romulan strain",
+      "romulan THCa flower",
+      "buy romulan online",
+      "JK Distro romulan",
+      "romulan strain review",
+      "romulan strain effects",
+      "romulan strain terpenes",
+      "cheap THCa romulan",
+      "best romulan strain"
+    ]
+  },
+  {
+    "id": "1024804500",
+    "title": "Cherry Bomb THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.85,
+    "reviews": 18,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1ERMKwIRAN3e2off9srp4dcCy6-txjbko"
+    ],
+    "category": "flower",
+    "slug": "cherry-bomb-thca-flower-hybrid",
+    "description": "THCa:\n 24.850% \nTHC: \n21.550%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Cherry Bomb THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/cherry-bomb). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Cherry Bomb delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCherry Bomb is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000451",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-CHERRY-BOMB-3.5G"
+      },
+      {
+        "id": "50100000452",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-CHERRY-BOMB-7G"
+      },
+      {
+        "id": "50100000453",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-CHERRY-BOMB-14G"
+      },
+      {
+        "id": "50100000454",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-CHERRY-BOMB-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Cherry Bomb",
+      "cherry bomb strain",
+      "cherry bomb THCa flower",
+      "buy cherry bomb online",
+      "JK Distro cherry bomb",
+      "cherry bomb strain review",
+      "cherry bomb strain effects",
+      "cherry bomb strain terpenes",
+      "cheap THCa cherry bomb",
+      "best cherry bomb strain"
+    ]
+  },
+  {
+    "id": "1024804600",
+    "title": "Rainbow Belts THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.92,
+    "reviews": 31,
+    "images": [
+      "https://lh3.googleusercontent.com/d/11JX1sJAghwPdqQWg4DqsloRyqxfM2UHG"
+    ],
+    "category": "flower",
+    "slug": "rainbow-belts-thca-flower-hybrid",
+    "description": "THCa:\n 25.800% \nTHC: \n22.400%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Rainbow Belts THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/rainbow-belts). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Rainbow Belts delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nRainbow Belts is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000461",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-RAINBOW-BELTS-3.5G"
+      },
+      {
+        "id": "50100000462",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-RAINBOW-BELTS-7G"
+      },
+      {
+        "id": "50100000463",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-RAINBOW-BELTS-14G"
+      },
+      {
+        "id": "50100000464",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-RAINBOW-BELTS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Rainbow Belts",
+      "rainbow belts strain",
+      "rainbow belts THCa flower",
+      "buy rainbow belts online",
+      "JK Distro rainbow belts",
+      "rainbow belts strain review",
+      "rainbow belts strain effects",
+      "rainbow belts strain terpenes",
+      "cheap THCa rainbow belts",
+      "best rainbow belts strain"
+    ]
+  },
+  {
+    "id": "1024804700",
+    "title": "Space Candy THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.99,
+    "reviews": 44,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1_csNQ_EYmEq3IqDzHi0SSyBDmDU_X2ck"
+    ],
+    "category": "flower",
+    "slug": "space-candy-thca-flower-hybrid",
+    "description": "THCa:\n 26.750% \nTHC: \n23.250%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Space Candy THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/space-candy). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Space Candy delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nSpace Candy is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000471",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-SPACE-CANDY-3.5G"
+      },
+      {
+        "id": "50100000472",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-SPACE-CANDY-7G"
+      },
+      {
+        "id": "50100000473",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-SPACE-CANDY-14G"
+      },
+      {
+        "id": "50100000474",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-SPACE-CANDY-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Space Candy",
+      "space candy strain",
+      "space candy THCa flower",
+      "buy space candy online",
+      "JK Distro space candy",
+      "space candy strain review",
+      "space candy strain effects",
+      "space candy strain terpenes",
+      "cheap THCa space candy",
+      "best space candy strain"
+    ]
+  },
+  {
+    "id": "1024804800",
+    "title": "Jelly Donut THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.76,
+    "reviews": 57,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1RXDIFceuxSY0W7xBxPX-px_UpSPpSsGW"
+    ],
+    "category": "flower",
+    "slug": "jelly-donut-thca-flower-indica",
+    "description": "THCa:\n 27.700% \nTHC: \n19.000%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Jelly Donut THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/jelly-donut). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Jelly Donut delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nJelly Donut is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000481",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-JELLY-DONUT-3.5G"
+      },
+      {
+        "id": "50100000482",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-JELLY-DONUT-7G"
+      },
+      {
+        "id": "50100000483",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-JELLY-DONUT-14G"
+      },
+      {
+        "id": "50100000484",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-JELLY-DONUT-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Jelly Donut",
+      "jelly donut strain",
+      "jelly donut THCa flower",
+      "buy jelly donut online",
+      "JK Distro jelly donut",
+      "jelly donut strain review",
+      "jelly donut strain effects",
+      "jelly donut strain terpenes",
+      "cheap THCa jelly donut",
+      "best jelly donut strain"
+    ]
+  },
+  {
+    "id": "1024804900",
+    "title": "Strawberry Shortcake THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.83,
+    "reviews": 25,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1B75n4dne5_wJIL69f6SRbbPd34g2RoM4"
+    ],
+    "category": "flower",
+    "slug": "strawberry-shortcake-thca-flower-indica",
+    "description": "THCa:\n 22.000% \nTHC: \n19.850%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Strawberry Shortcake THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/strawberry-shortcake). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Strawberry Shortcake delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nStrawberry Shortcake is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000491",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-STRAWBERRY-SHORTCAKE-3.5G"
+      },
+      {
+        "id": "50100000492",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-STRAWBERRY-SHORTCAKE-7G"
+      },
+      {
+        "id": "50100000493",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-STRAWBERRY-SHORTCAKE-14G"
+      },
+      {
+        "id": "50100000494",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-STRAWBERRY-SHORTCAKE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Strawberry Shortcake",
+      "strawberry shortcake strain",
+      "strawberry shortcake THCa flower",
+      "buy strawberry shortcake online",
+      "JK Distro strawberry shortcake",
+      "strawberry shortcake strain review",
+      "strawberry shortcake strain effects",
+      "strawberry shortcake strain terpenes",
+      "cheap THCa strawberry shortcake",
+      "best strawberry shortcake strain"
+    ]
+  },
+  {
+    "id": "1024805000",
+    "title": "Monkey Glue THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.9,
+    "reviews": 38,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1anNM6_B8Jex4cH2x75U3cYUJ5Cjme02R"
+    ],
+    "category": "flower",
+    "slug": "monkey-glue-thca-flower-hybrid",
+    "description": "THCa:\n 22.950% \nTHC: \n20.700%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Monkey Glue THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/monkey-glue). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Monkey Glue delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nMonkey Glue is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000501",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-MONKEY-GLUE-3.5G"
+      },
+      {
+        "id": "50100000502",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-MONKEY-GLUE-7G"
+      },
+      {
+        "id": "50100000503",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-MONKEY-GLUE-14G"
+      },
+      {
+        "id": "50100000504",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-MONKEY-GLUE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Monkey Glue",
+      "monkey glue strain",
+      "monkey glue THCa flower",
+      "buy monkey glue online",
+      "JK Distro monkey glue",
+      "monkey glue strain review",
+      "monkey glue strain effects",
+      "monkey glue strain terpenes",
+      "cheap THCa monkey glue",
+      "best monkey glue strain"
+    ]
+  },
+  {
+    "id": "1024805100",
+    "title": "Candy Gas THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.97,
+    "reviews": 51,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1e6gWumHZiIeROirRB52qoKHCuMzAR8y6"
+    ],
+    "category": "flower",
+    "slug": "candy-gas-thca-flower-hybrid",
+    "description": "THCa:\n 23.900% \nTHC: \n21.550%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Candy Gas THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/candy-gas). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Candy Gas delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nCandy Gas is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000511",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-CANDY-GAS-3.5G"
+      },
+      {
+        "id": "50100000512",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-CANDY-GAS-7G"
+      },
+      {
+        "id": "50100000513",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-CANDY-GAS-14G"
+      },
+      {
+        "id": "50100000514",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-CANDY-GAS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Candy Gas",
+      "candy gas strain",
+      "candy gas THCa flower",
+      "buy candy gas online",
+      "JK Distro candy gas",
+      "candy gas strain review",
+      "candy gas strain effects",
+      "candy gas strain terpenes",
+      "cheap THCa candy gas",
+      "best candy gas strain"
+    ]
+  },
+  {
+    "id": "1024805200",
+    "title": "Black Ice THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.74,
+    "reviews": 19,
+    "images": [
+      "https://lh3.googleusercontent.com/d/11HOXuM2nAwJzif9mpKkyzE1DUJ3Cw3u0"
+    ],
+    "category": "flower",
+    "slug": "black-ice-thca-flower-indica",
+    "description": "THCa:\n 24.850% \nTHC: \n22.400%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Black Ice THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/black-ice). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Black Ice delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlack Ice is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000521",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLACK-ICE-3.5G"
+      },
+      {
+        "id": "50100000522",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLACK-ICE-7G"
+      },
+      {
+        "id": "50100000523",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLACK-ICE-14G"
+      },
+      {
+        "id": "50100000524",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLACK-ICE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Black Ice",
+      "black ice strain",
+      "black ice THCa flower",
+      "buy black ice online",
+      "JK Distro black ice",
+      "black ice strain review",
+      "black ice strain effects",
+      "black ice strain terpenes",
+      "cheap THCa black ice",
+      "best black ice strain"
+    ]
+  },
+  {
+    "id": "1024805300",
+    "title": "Black Maple THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.81,
+    "reviews": 32,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1g2bkQiea-tEk8WoT01i98RM-vbcnNOgs"
+    ],
+    "category": "flower",
+    "slug": "black-maple-thca-flower-indica",
+    "description": "THCa:\n 25.800% \nTHC: \n23.250%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Black Maple THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/black-maple). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Black Maple delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlack Maple is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000531",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLACK-MAPLE-3.5G"
+      },
+      {
+        "id": "50100000532",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLACK-MAPLE-7G"
+      },
+      {
+        "id": "50100000533",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLACK-MAPLE-14G"
+      },
+      {
+        "id": "50100000534",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLACK-MAPLE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Black Maple",
+      "black maple strain",
+      "black maple THCa flower",
+      "buy black maple online",
+      "JK Distro black maple",
+      "black maple strain review",
+      "black maple strain effects",
+      "black maple strain terpenes",
+      "cheap THCa black maple",
+      "best black maple strain"
+    ]
+  },
+  {
+    "id": "1024805400",
+    "title": "Fruity Pebbles THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.88,
+    "reviews": 45,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1HxwQdGgTyvNje6nClJlnP5sM-XN8sSgz"
+    ],
+    "category": "flower",
+    "slug": "fruity-pebbles-thca-flower-hybrid",
+    "description": "THCa:\n 26.750% \nTHC: \n19.000%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Fruity Pebbles THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/fruity-pebbles). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Fruity Pebbles delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nFruity Pebbles is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000541",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-FRUITY-PEBBLES-3.5G"
+      },
+      {
+        "id": "50100000542",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-FRUITY-PEBBLES-7G"
+      },
+      {
+        "id": "50100000543",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-FRUITY-PEBBLES-14G"
+      },
+      {
+        "id": "50100000544",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-FRUITY-PEBBLES-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Fruity Pebbles",
+      "fruity pebbles strain",
+      "fruity pebbles THCa flower",
+      "buy fruity pebbles online",
+      "JK Distro fruity pebbles",
+      "fruity pebbles strain review",
+      "fruity pebbles strain effects",
+      "fruity pebbles strain terpenes",
+      "cheap THCa fruity pebbles",
+      "best fruity pebbles strain"
+    ]
+  },
+  {
+    "id": "1024805500",
+    "title": "Purple Haze THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.95,
+    "reviews": 58,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1KKxtTnr_QV3N9E22gkehb9-TVdoZB0xV"
+    ],
+    "category": "flower",
+    "slug": "purple-haze-thca-flower-sativa",
+    "description": "THCa:\n 27.700% \nTHC: \n19.850%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Purple Haze THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/purple-haze). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Purple Haze delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nPurple Haze is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000551",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-PURPLE-HAZE-3.5G"
+      },
+      {
+        "id": "50100000552",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-PURPLE-HAZE-7G"
+      },
+      {
+        "id": "50100000553",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-PURPLE-HAZE-14G"
+      },
+      {
+        "id": "50100000554",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-PURPLE-HAZE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Purple Haze",
+      "purple haze strain",
+      "purple haze THCa flower",
+      "buy purple haze online",
+      "JK Distro purple haze",
+      "purple haze strain review",
+      "purple haze strain effects",
+      "purple haze strain terpenes",
+      "cheap THCa purple haze",
+      "best purple haze strain"
+    ]
+  },
+  {
+    "id": "1024805600",
+    "title": "Gushers THCA Flower (Indica)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.72,
+    "reviews": 26,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1CQWJmdDF3sv5qBRkS_5yncBXPpre0tlL"
+    ],
+    "category": "flower",
+    "slug": "gushers-thca-flower-indica",
+    "description": "THCa:\n 22.000% \nTHC: \n20.700%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Indica Character\nExperience the unmatched profile of Gushers THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/gushers). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Gushers delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nGushers is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000561",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-GUSHERS-3.5G"
+      },
+      {
+        "id": "50100000562",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-GUSHERS-7G"
+      },
+      {
+        "id": "50100000563",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-GUSHERS-14G"
+      },
+      {
+        "id": "50100000564",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-GUSHERS-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Gushers",
+      "gushers strain",
+      "gushers THCa flower",
+      "buy gushers online",
+      "JK Distro gushers",
+      "gushers strain review",
+      "gushers strain effects",
+      "gushers strain terpenes",
+      "cheap THCa gushers",
+      "best gushers strain"
+    ]
+  },
+  {
+    "id": "1024805700",
+    "title": "Blue Lobster THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.79,
+    "reviews": 39,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1R8Ul_MoctWQv12PSOvHHuhI0mTmCt6E8"
+    ],
+    "category": "flower",
+    "slug": "blue-lobster-thca-flower-hybrid",
+    "description": "THCa:\n 22.950% \nTHC: \n21.550%\nDelta 9: \n0.2400%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Blue Lobster THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/blue-lobster). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Blue Lobster delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nBlue Lobster is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000571",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-BLUE-LOBSTER-3.5G"
+      },
+      {
+        "id": "50100000572",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-BLUE-LOBSTER-7G"
+      },
+      {
+        "id": "50100000573",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-BLUE-LOBSTER-14G"
+      },
+      {
+        "id": "50100000574",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-BLUE-LOBSTER-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Blue Lobster",
+      "blue lobster strain",
+      "blue lobster THCa flower",
+      "buy blue lobster online",
+      "JK Distro blue lobster",
+      "blue lobster strain review",
+      "blue lobster strain effects",
+      "blue lobster strain terpenes",
+      "cheap THCa blue lobster",
+      "best blue lobster strain"
+    ]
+  },
+  {
+    "id": "1024805800",
+    "title": "Animal Face THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.86,
+    "reviews": 52,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1sYTJxWuqpmvlhgMScWNa5wWS5c-yidPB"
+    ],
+    "category": "flower",
+    "slug": "animal-face-thca-flower-sativa",
+    "description": "THCa:\n 23.900% \nTHC: \n22.400%\nDelta 9: \n0.2600%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Animal Face THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/animal-face). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Animal Face delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nAnimal Face is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000581",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-ANIMAL-FACE-3.5G"
+      },
+      {
+        "id": "50100000582",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-ANIMAL-FACE-7G"
+      },
+      {
+        "id": "50100000583",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-ANIMAL-FACE-14G"
+      },
+      {
+        "id": "50100000584",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-ANIMAL-FACE-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Animal Face",
+      "animal face strain",
+      "animal face THCa flower",
+      "buy animal face online",
+      "JK Distro animal face",
+      "animal face strain review",
+      "animal face strain effects",
+      "animal face strain terpenes",
+      "cheap THCa animal face",
+      "best animal face strain"
+    ]
+  },
+  {
+    "id": "1024805900",
+    "title": "Jet Fuel THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.93,
+    "reviews": 20,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1SuvbeMiByfTpUJ2MCQazhA10jiaKMa79"
+    ],
+    "category": "flower",
+    "slug": "jet-fuel-thca-flower-sativa",
+    "description": "THCa:\n 24.850% \nTHC: \n23.250%\nDelta 9: \n0.2800%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Jet Fuel THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/jet-fuel). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Jet Fuel delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nJet Fuel is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000591",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-JET-FUEL-3.5G"
+      },
+      {
+        "id": "50100000592",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-JET-FUEL-7G"
+      },
+      {
+        "id": "50100000593",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-JET-FUEL-14G"
+      },
+      {
+        "id": "50100000594",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-JET-FUEL-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Jet Fuel",
+      "jet fuel strain",
+      "jet fuel THCa flower",
+      "buy jet fuel online",
+      "JK Distro jet fuel",
+      "jet fuel strain review",
+      "jet fuel strain effects",
+      "jet fuel strain terpenes",
+      "cheap THCa jet fuel",
+      "best jet fuel strain"
+    ]
+  },
+  {
+    "id": "1024806000",
+    "title": "Peanut Butter Breath THCA Flower (Hybrid)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.7,
+    "reviews": 33,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1YnxdqO_lVE41TDsNGNheUxo3swXXkhjf"
+    ],
+    "category": "flower",
+    "slug": "peanut-butter-breath-thca-flower-hybrid",
+    "description": "THCa:\n 25.800% \nTHC: \n19.000%\nDelta 9: \n0.2000%\nExotic Craft Terpenes & Bold Hybrid Character\nExperience the unmatched profile of Peanut Butter Breath THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/peanut-butter-breath). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Peanut Butter Breath delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nPeanut Butter Breath is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000601",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-PEANUT-BUTTER-BREATH-3.5G"
+      },
+      {
+        "id": "50100000602",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-PEANUT-BUTTER-BREATH-7G"
+      },
+      {
+        "id": "50100000603",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-PEANUT-BUTTER-BREATH-14G"
+      },
+      {
+        "id": "50100000604",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-PEANUT-BUTTER-BREATH-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Peanut Butter Breath",
+      "peanut butter breath strain",
+      "peanut butter breath THCa flower",
+      "buy peanut butter breath online",
+      "JK Distro peanut butter breath",
+      "peanut butter breath strain review",
+      "peanut butter breath strain effects",
+      "peanut butter breath strain terpenes",
+      "cheap THCa peanut butter breath",
+      "best peanut butter breath strain"
+    ]
+  },
+  {
+    "id": "1024806100",
+    "title": "Alaskan Thunder Fuck THCA Flower (Sativa)",
+    "basePrice": 34.99,
+    "discountPrice": 25,
+    "rating": 4.77,
+    "reviews": 46,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1HfsGiULqEdmAeYelFw5KEIYrUw1n1z6D"
+    ],
+    "category": "flower",
+    "slug": "alaskan-thunder-fuck-thca-flower-sativa",
+    "description": "THCa:\n 26.750% \nTHC: \n19.850%\nDelta 9: \n0.2200%\nExotic Craft Terpenes & Bold Sativa Character\nExperience the unmatched profile of Alaskan Thunder Fuck THCA Flower from JK Distro, sourced from premier craft growers and indexed on Leafly (https://www.leafly.com/strains/alaskan-thunder-fuck). Known for its dense trichome coverage, distinct terpene bouquet, and exceptional bag appeal, Alaskan Thunder Fuck delivers a smooth, highly flavorful smoke.\nEach hand-selected nug features vibrant coloration, glistening trichomes, and a rich aromatic nose blending sweet fruits, creamy dessert notes, earthy pine, and pungent diesel fuel.\nAlaskan Thunder Fuck is a top choice for hemp connoisseurs looking for top-tier THCA flower with authentic strain genetics.\nLab Tested for Quality & Consistency.",
+    "variants": [
+      {
+        "id": "50100000611",
+        "title": "3.5 Grams",
+        "price": 25,
+        "sku": "JK-DISTRO-ALASKAN-THUNDER-FUCK-3.5G"
+      },
+      {
+        "id": "50100000612",
+        "title": "7 Grams",
+        "price": 45,
+        "sku": "JK-DISTRO-ALASKAN-THUNDER-FUCK-7G"
+      },
+      {
+        "id": "50100000613",
+        "title": "14 Grams",
+        "price": 80,
+        "sku": "JK-DISTRO-ALASKAN-THUNDER-FUCK-14G"
+      },
+      {
+        "id": "50100000614",
+        "title": "1 Ounce",
+        "price": 140,
+        "sku": "JK-DISTRO-ALASKAN-THUNDER-FUCK-28G"
+      }
+    ],
+    "seoKeywords": [
+      "Alaskan Thunder Fuck",
+      "alaskan thunder fuck strain",
+      "alaskan thunder fuck THCa flower",
+      "buy alaskan thunder fuck online",
+      "JK Distro alaskan thunder fuck",
+      "alaskan thunder fuck strain review",
+      "alaskan thunder fuck strain effects",
+      "alaskan thunder fuck strain terpenes",
+      "cheap THCa alaskan thunder fuck",
+      "best alaskan thunder fuck strain"
+    ]
+  },
+  {
+    "id": "1024900001",
+    "title": "Albanese Gummy Bears THCA Gummies",
+    "basePrice": 24.99,
+    "discountPrice": 14.99,
+    "rating": 4.95,
+    "reviews": 42,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1ZgzMkHK_UISBMBkzohMoaH7gjOAjy6R2"
+    ],
+    "category": "gummies",
+    "slug": "albanese-gummy-bears-thca-gummies",
+    "description": "Albanese Gummy Bears THCA Gummies - Premium infused gummies featuring World's Best Gummy Bears flavor profiles. Infused with ultra-pure THCa extract and natural fruit juices. Enjoy soft, chewable bear gummies in 12 iconic fruit flavors with precise dosage in every piece.\n\nKey Highlights:\n• Premium THCa Infused Edibles\n• 12 Real Fruit Flavors in Every Pack\n• Soft, Mouth-Watering Chew\n• Lab Tested for Purity & Potency",
+    "variants": [
+      {
+        "id": "5020000011",
+        "title": "100mg Bag (10 Count)",
+        "price": 14.99,
+        "sku": "JK-DISTRO-ALBANESE-100MG"
+      },
+      {
+        "id": "5020000012",
+        "title": "250mg Bag (25 Count)",
+        "price": 24.99,
+        "sku": "JK-DISTRO-ALBANESE-250MG"
+      },
+      {
+        "id": "5020000013",
+        "title": "500mg Bag (50 Count)",
+        "price": 39.99,
+        "sku": "JK-DISTRO-ALBANESE-500MG"
+      }
+    ],
+    "seoKeywords": [
+      "albanese gummy bears",
+      "albanese gummy bears strain",
+      "albanese thca gummies",
+      "buy albanese gummy bears online",
+      "JK Distro albanese gummy bears",
+      "cheap thca gummies",
+      "best gummy bear edibles"
+    ]
+  },
+  {
+    "id": "1024900002",
+    "title": "Camino Infused Gummies",
+    "basePrice": 29.99,
+    "discountPrice": 22,
+    "rating": 4.98,
+    "reviews": 58,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1XiaG9tflvV63l2eQj_h3ddl6-XgDdwkg"
+    ],
+    "category": "gummies",
+    "slug": "camino-infused-gummies",
+    "description": "Camino Infused Gummies - Artisanal, strain-tailored THCa gummies crafted with custom terpene blends to evoke state-of-mind experiences. Inspired by the California coast, Camino gummies deliver consistent effects and unforgettable taste.\n\nKey Highlights:\n• Custom Terpene-Infused Formulations\n• Tailored Effects & Euphoric Balance\n• Made with Natural Ingredients & Fruit Purees\n• Rigorously Lab Tested",
+    "variants": [
+      {
+        "id": "5020000021",
+        "title": "100mg Pack (10 Count)",
+        "price": 22,
+        "sku": "JK-DISTRO-CAMINO-100MG"
+      },
+      {
+        "id": "5020000022",
+        "title": "200mg Pack (20 Count)",
+        "price": 35,
+        "sku": "JK-DISTRO-CAMINO-200MG"
+      }
+    ],
+    "seoKeywords": [
+      "camino gummies",
+      "camino strain",
+      "camino thca gummies",
+      "buy camino gummies online",
+      "JK Distro camino gummies",
+      "camino edibles",
+      "best thca gummies"
+    ]
+  },
+  {
+    "id": "1024900003",
+    "title": "CBN Sleep Gummies",
+    "basePrice": 32.99,
+    "discountPrice": 24.99,
+    "rating": 4.99,
+    "reviews": 64,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1UvLaSw1_U5fnUgg2veke1UAJIZh8xjoc"
+    ],
+    "category": "gummies",
+    "slug": "cbn-sleep-gummies",
+    "description": "CBN Sleep Gummies - Nighttime formula combining potent CBN (Cannabinol) with relaxing THCa extract and soothing natural botanicals. Perfect for unwinding at the end of the day and supporting deep, restful sleep without morning grogginess.\n\nKey Highlights:\n• Dual-Action CBN + THCa Sleep Formula\n• Soothing Berry Lavender Taste\n• Fast-Acting & Long-Lasting Nighttime Relief\n• 100% Vegan & Gluten-Free",
+    "variants": [
+      {
+        "id": "5020000031",
+        "title": "150mg CBN + THC (15 Count)",
+        "price": 24.99,
+        "sku": "JK-DISTRO-CBN-150MG"
+      },
+      {
+        "id": "5020000032",
+        "title": "300mg CBN + THC (30 Count)",
+        "price": 42,
+        "sku": "JK-DISTRO-CBN-300MG"
+      }
+    ],
+    "seoKeywords": [
+      "cbn gummies",
+      "cbn strain",
+      "cbn sleep gummies",
+      "buy cbn gummies online",
+      "JK Distro cbn gummies",
+      "thca cbn gummies",
+      "cbn night time edibles"
+    ]
+  },
+  {
+    "id": "1024900004",
+    "title": "Dye Free M&Ms Edibles",
+    "basePrice": 22.99,
+    "discountPrice": 16.99,
+    "rating": 4.88,
+    "reviews": 35,
+    "images": [
+      "https://lh3.googleusercontent.com/d/10HdonubU4fO712mgTTLvjYUWtutHnMwS"
+    ],
+    "category": "gummies",
+    "slug": "dye-free-mms-edibles",
+    "description": "Dye Free M&Ms Edibles - Delicious, dye-free chocolate button candies infused with premium THCa distillate. Enjoy rich real milk chocolate coated in crisp, naturally colored candy shells without artificial food dyes.\n\nKey Highlights:\n• Dye-Free Natural Colors\n• Real Milk Chocolate & THCa Infusion\n• Crunchy Shell & Melt-In-Your-Mouth Center\n• Lab Tested for Exact Dosages",
+    "variants": [
+      {
+        "id": "5020000041",
+        "title": "100mg Bag",
+        "price": 16.99,
+        "sku": "JK-DISTRO-DF-MMS-100MG"
+      },
+      {
+        "id": "5020000042",
+        "title": "250mg Bag",
+        "price": 28,
+        "sku": "JK-DISTRO-DF-MMS-250MG"
+      }
+    ],
+    "seoKeywords": [
+      "dye free m&ms",
+      "dye free m&ms strain",
+      "dye free mms edibles",
+      "buy dye free mms online",
+      "JK Distro dye free mms",
+      "all natural thca chocolate edibles"
+    ]
+  },
+  {
+    "id": "1024900005",
+    "title": "Gummy Candy Edibles Mix",
+    "basePrice": 22.99,
+    "discountPrice": 15.99,
+    "rating": 4.91,
+    "reviews": 29,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1i_oK7BVvsfSTzXbsNSi5xX21ioe6_BfJ"
+    ],
+    "category": "gummies",
+    "slug": "gummy-candy-edibles-mix",
+    "description": "Gummy Candy Edibles Mix - A delicious rainbow assortment of fruit gummy candies infused with potent full-spectrum THCa. Packed with sour rings, sweet worms, and fruit bites for a fun, multi-flavor snacking experience.\n\nKey Highlights:\n• Assorted Fruit Flavor & Shape Variety\n• Potent Full-Spectrum THCa Infusion\n• Great for Parties & Daily Dosing\n• Third-Party Lab Certified",
+    "variants": [
+      {
+        "id": "5020000051",
+        "title": "150mg Variety Pack",
+        "price": 15.99,
+        "sku": "JK-DISTRO-GUMMY-MIX-150MG"
+      },
+      {
+        "id": "5020000052",
+        "title": "300mg Variety Pack",
+        "price": 27.99,
+        "sku": "JK-DISTRO-GUMMY-MIX-300MG"
+      }
+    ],
+    "seoKeywords": [
+      "gummy candy edibles",
+      "gummy candy strain",
+      "buy gummy candy edibles",
+      "JK Distro gummy candy",
+      "variety thca gummies",
+      "sweet thca candy"
+    ]
+  },
+  {
+    "id": "1024900006",
+    "title": "Gummy Sharks THCA Gummies",
+    "basePrice": 24.99,
+    "discountPrice": 17.99,
+    "rating": 4.96,
+    "reviews": 51,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1MNU3xGwAH3FNRRS2PDjBDeaeayT8Zo1v"
+    ],
+    "category": "gummies",
+    "slug": "gummy-sharks-thca-gummies",
+    "description": "Gummy Sharks THCA Gummies - Iconic dual-layered blue raspberry and marshmallow cream shark gummies infused with high-grade THCa extract. Bold, sweet, and wonderfully chewy.\n\nKey Highlights:\n• Classic Blue Raspberry & Cream Flavor\n• High-Strength THCa Dosage\n• Soft Marshmallow Bottom Layer\n• Consistent Batch-Tested Quality",
+    "variants": [
+      {
+        "id": "5020000061",
+        "title": "200mg Pack",
+        "price": 17.99,
+        "sku": "JK-DISTRO-SHARKS-200MG"
+      },
+      {
+        "id": "5020000062",
+        "title": "500mg Pack",
+        "price": 32.99,
+        "sku": "JK-DISTRO-SHARKS-500MG"
+      }
+    ],
+    "seoKeywords": [
+      "gummy sharks",
+      "gummy sharks strain",
+      "gummy sharks thca",
+      "buy gummy sharks online",
+      "JK Distro gummy sharks",
+      "blue shark gummies edibles"
+    ]
+  },
+  {
+    "id": "1024900007",
+    "title": "Haribo THCA Gummy Bears",
+    "basePrice": 26.99,
+    "discountPrice": 18.99,
+    "rating": 4.93,
+    "reviews": 38,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1wliiZFGzT_Eb_vlgGYQbJCrbTtlnCYS4"
+    ],
+    "category": "gummies",
+    "slug": "haribo-thca-gummy-bears",
+    "description": "Haribo THCA Gummy Bears - The gold standard in gummy bears, now expertly infused with potent THCa distillate. Enjoy authentic European-style chewy bears in lemon, orange, pineapple, raspberry, and strawberry flavors.\n\nKey Highlights:\n• Authentic Haribo Style Chewy Texture\n• 5 Classic Fruit Flavors\n• Precision THCa Dose per Bear\n• Third-Party Lab Tested",
+    "variants": [
+      {
+        "id": "5020000071",
+        "title": "200mg Bag",
+        "price": 18.99,
+        "sku": "JK-DISTRO-HARIBO-200MG"
+      },
+      {
+        "id": "5020000072",
+        "title": "500mg Bag",
+        "price": 34.99,
+        "sku": "JK-DISTRO-HARIBO-500MG"
+      }
+    ],
+    "seoKeywords": [
+      "haribo gummies",
+      "haribo strain",
+      "haribo thca gummy bears",
+      "buy haribo gummies online",
+      "JK Distro haribo gummies",
+      "goldbear thca edibles"
+    ]
+  },
+  {
+    "id": "1024900008",
+    "title": "Jolly Rancher Infused Gummies",
+    "basePrice": 27.99,
+    "discountPrice": 19.99,
+    "rating": 4.97,
+    "reviews": 63,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1-jwRbBG7Zkf2cNf9o9xQMhxX9IOlWF1c",
+      "https://lh3.googleusercontent.com/d/1NZYujR_GX2EXWgubNY7nH5LmaYM8U0_J"
+    ],
+    "category": "gummies",
+    "slug": "jolly-rancher-infused-gummies",
+    "description": "Jolly Rancher Infused Gummies - Unapologetically bold fruit flavor punch gummies infused with premium THCa distillate. Packed with intense Green Apple, Watermelon, Cherry, and Blue Raspberry gummy bites.\n\nKey Highlights:\n• Explosive Jolly Rancher Fruit Flavors\n• High Potency THCa Formulation\n• Juicy & Tangy Chewy Bites\n• Lab Verified Safety & Purity",
+    "variants": [
+      {
+        "id": "5020000081",
+        "title": "250mg Pack",
+        "price": 19.99,
+        "sku": "JK-DISTRO-JOLLY-250MG"
+      },
+      {
+        "id": "5020000082",
+        "title": "500mg Pack",
+        "price": 34.99,
+        "sku": "JK-DISTRO-JOLLY-500MG"
+      }
+    ],
+    "seoKeywords": [
+      "jolly rancher gummies",
+      "jolly rancher strain",
+      "jolly rancher infused gummies",
+      "buy jolly rancher gummies online",
+      "JK Distro jolly rancher gummies",
+      "fruit punch thca gummies"
+    ]
+  },
+  {
+    "id": "1024900009",
+    "title": "Red 40 Punch Gummies",
+    "basePrice": 22.99,
+    "discountPrice": 16.99,
+    "rating": 4.89,
+    "reviews": 27,
+    "images": [
+      "https://lh3.googleusercontent.com/d/10HMperwN-1WifYECz_KStDXnAwbsE4mK"
+    ],
+    "category": "gummies",
+    "slug": "red-40-punch-gummies",
+    "description": "Red 40 Punch Gummies - Ultra-potent tropical cherry punch flavored gummy squares with a signature vibrant red shade and intense THCa dosage. Delivers a fast, mouthwatering burst of sweet cherry punch goodness.\n\nKey Highlights:\n• Bold Tropical Cherry Punch Taste\n• High-Potency THCa Extract\n• Soft, Juicy Square Gummy Texture\n• Certified Lab Tested Quality",
+    "variants": [
+      {
+        "id": "5020000091",
+        "title": "200mg Bag",
+        "price": 16.99,
+        "sku": "JK-DISTRO-RED40-200MG"
+      },
+      {
+        "id": "5020000092",
+        "title": "400mg Bag",
+        "price": 29.99,
+        "sku": "JK-DISTRO-RED40-400MG"
+      }
+    ],
+    "seoKeywords": [
+      "red 40",
+      "red 40 strain",
+      "red 40 gummies",
+      "buy red 40 gummies online",
+      "JK Distro red 40",
+      "cherry punch thca gummies"
+    ]
+  },
+  {
+    "id": "1024900010",
+    "title": "Shaq XL THCA Gummies",
+    "basePrice": 29.99,
+    "discountPrice": 21.99,
+    "rating": 4.98,
+    "reviews": 74,
+    "images": [
+      "https://lh3.googleusercontent.com/d/11w6Xiv0uNdzKDbSxNth0Uju_Kj_CyGq7"
+    ],
+    "category": "gummies",
+    "slug": "shaq-xl-thca-gummies",
+    "description": "Shaq XL THCA Gummies - Extra large, king-sized THCa gummy drops packed with maximum potency and oversized fruit flavors. Designed for seasoned edible enthusiasts seeking deep relaxation and long-lasting effects.\n\nKey Highlights:\n• Extra Large High-Dose Gummy Drops\n• Max-Strength Full Spectrum THCa\n• Delicious Mixed Fruit Berry Medley\n• Lab Tested for Guaranteed Potency",
+    "variants": [
+      {
+        "id": "5020000101",
+        "title": "300mg Pack",
+        "price": 21.99,
+        "sku": "JK-DISTRO-SHAQ-300MG"
+      },
+      {
+        "id": "5020000102",
+        "title": "600mg Pack",
+        "price": 36.99,
+        "sku": "JK-DISTRO-SHAQ-600MG"
+      }
+    ],
+    "seoKeywords": [
+      "shaq gummies",
+      "shaq strain",
+      "shaq xl thca gummies",
+      "buy shaq gummies online",
+      "JK Distro shaq gummies",
+      "extra strength thca gummies"
+    ]
+  },
+  {
+    "id": "1024900011",
+    "title": "Sour Burst THCA Gummies",
+    "basePrice": 25.99,
+    "discountPrice": 18.99,
+    "rating": 4.94,
+    "reviews": 49,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1QzglCL2vz2klNlkTJjkv0QtvmKKYmlyl",
+      "https://lh3.googleusercontent.com/d/1Oil90NtIJp3Fg8H4g2sHufOSn_3Uw6N3"
+    ],
+    "category": "gummies",
+    "slug": "sour-burst-thca-gummies",
+    "description": "Sour Burst THCA Gummies - Tangy sour-coated fruit gummies delivering a mouth-puckering blast of citrus, green apple, and sour watermelon before settling into sweet THCa bliss.\n\nKey Highlights:\n• Extreme Sour Sugar Coating\n• Multi-Flavor Sour Apple, Lemon & Watermelon\n• Fast-Acting THCa Distillate\n• Independently Tested by Certified Labs",
+    "variants": [
+      {
+        "id": "5020000111",
+        "title": "250mg Bag",
+        "price": 18.99,
+        "sku": "JK-DISTRO-SOUR-250MG"
+      },
+      {
+        "id": "5020000112",
+        "title": "500mg Bag",
+        "price": 32.99,
+        "sku": "JK-DISTRO-SOUR-500MG"
+      }
+    ],
+    "seoKeywords": [
+      "sour gummies",
+      "sour gummies strain",
+      "sour thca gummies",
+      "buy sour gummies online",
+      "JK Distro sour gummies",
+      "tangy sour fruit edibles"
+    ]
+  },
+  {
+    "id": "1024900012",
+    "title": "Trolli Gummy Pop Edibles",
+    "basePrice": 24.99,
+    "discountPrice": 17.99,
+    "rating": 4.92,
+    "reviews": 36,
+    "images": [
+      "https://lh3.googleusercontent.com/d/1o0TyuoCVIosMOdtcThjnKpsWoTuNzgMr"
+    ],
+    "category": "gummies",
+    "slug": "trolli-gummy-pop-edibles",
+    "description": "Trolli Gummy Pop Edibles - Fun, popping sour crawler gummy worms and pops infused with top-grade THCa distillate. Dual-flavor sour worms featuring cherry-lemon, strawberry-grape, and orange-lime flavor mashups.\n\nKey Highlights:\n• Signature Trolli Sour Crawler Flavor Combinations\n• Potent THCa Infusion\n• Irresistible Soft & Chewy Texture\n• Batch Tested for Consistent Quality",
+    "variants": [
+      {
+        "id": "5020000121",
+        "title": "200mg Pack",
+        "price": 17.99,
+        "sku": "JK-DISTRO-TROLLI-200MG"
+      },
+      {
+        "id": "5020000122",
+        "title": "400mg Pack",
+        "price": 29.99,
+        "sku": "JK-DISTRO-TROLLI-400MG"
+      }
+    ],
+    "seoKeywords": [
+      "trolli gummy pop",
+      "trolli gummy pop strain",
+      "trolli thca gummies",
+      "buy trolli gummy pop online",
+      "JK Distro trolli gummies",
+      "sour crawler gummies"
     ]
   }
 ]

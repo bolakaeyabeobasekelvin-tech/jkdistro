@@ -24,7 +24,19 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'cdn.shopify.com',
+        hostname: '*.shopify.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: '*.leafly.com',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'leafly-cms-assets.s3-us-west-2.amazonaws.com',
         port: '',
         pathname: '/**',
       },

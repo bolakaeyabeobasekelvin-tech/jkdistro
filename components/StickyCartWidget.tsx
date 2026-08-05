@@ -24,7 +24,7 @@ export function StickyCartWidget() {
         animate={{ y: 0, opacity: 1, scale: 1 }}
         exit={{ y: 50, opacity: 0, scale: 0.9 }}
         transition={{ type: 'spring', damping: 20, stiffness: 300 }}
-        className="fixed bottom-5 right-4 sm:right-6 z-40 flex items-center gap-2 pointer-events-auto"
+        className="fixed bottom-24 left-4 sm:left-6 z-40 flex items-center gap-2 pointer-events-auto"
       >
         <button
           onClick={() => setCartOpen(true)}

@@ -83,6 +83,7 @@ export function Header() {
             <Link href="/" className="hover:text-red-500 transition-colors uppercase">Home</Link>
             <Link href="/shop" className="hover:text-red-500 transition-colors uppercase">Shop</Link>
             <Link href="/shop?category=flower" className="hover:text-red-500 transition-colors uppercase">Flower</Link>
+            <Link href="/shop?category=gummies" className="hover:text-red-500 transition-colors uppercase">Gummies</Link>
             <Link href="/shop?category=vapes" className="hover:text-red-500 transition-colors uppercase">Vapes</Link>
             <Link href="/about" className="hover:text-red-500 transition-colors uppercase">About</Link>
             <Link href="/contact" className="hover:text-red-500 transition-colors uppercase">Contact</Link>
@@ -158,6 +159,9 @@ export function Header() {
                 </Link>
                 <Link href="/shop?category=flower" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
                   Premium Flower <ChevronRight className="w-4 h-4 text-neutral-600" />
+                </Link>
+                <Link href="/shop?category=gummies" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
+                  Gummies & Edibles <ChevronRight className="w-4 h-4 text-neutral-600" />
                 </Link>
                 <Link href="/shop?category=vapes" onClick={() => setMobileMenuOpen(false)} className="flex items-center justify-between border-b border-neutral-800 pb-3 text-neutral-300 hover:text-red-500">
                   Disposables & Vapes <ChevronRight className="w-4 h-4 text-neutral-600" />

@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import './globals.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { CartProvider } from '@/context/CartContext';
 import { StickyCartWidget } from '@/components/StickyCartWidget';
+import { SalesNotification } from '@/components/SalesNotification';
 
 const siteUrl = 'https://jkdistroshop.com';
 
@@ -169,7 +171,27 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <main className="flex-grow flex flex-col z-0 relative">{children}</main>
           <Footer />
           <StickyCartWidget />
+          <SalesNotification />
         </CartProvider>
+        <Script
+          id="smartsupp-chat"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              var _smartsupp = _smartsupp || {};
+              _smartsupp.key = '617b86d73077ea755c2932a80177b9e1025f9067';
+              window.smartsupp||(function(d) {
+                var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+                s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+                c.type='text/javascript';c.charset='utf-8';c.async=true;
+                c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+              })(document);
+            `,
+          }}
+        />
+        <noscript>
+          Powered by <a href="https://www.smartsupp.com" target="_blank" rel="noopener noreferrer">Smartsupp</a>
+        </noscript>
       </body>
     </html>
   );

@@ -3,7 +3,7 @@
 import { useState, useMemo, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
-import { Search, Filter } from 'lucide-react';
+import { Search, Filter, ChevronLeft, ChevronRight } from 'lucide-react';
 import { ProductCard, Product } from '@/components/ProductCard';
 
 interface ShopCatalogProps {
@@ -13,10 +13,13 @@ interface ShopCatalogProps {
 const CATEGORY_NAMES: Record<string, string> = {
   All: 'All Products',
   flower: 'Premium Flower',
+  gummies: 'THCa Gummies & Edibles',
   vapes: 'Disposables & Vapes',
   shake: 'THCa Shake',
   trim: 'THCa Trim',
 };
+
+const ITEMS_PER_PAGE = 16;
 
 function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
   const searchParams = useSearchParams();
@@ -34,6 +37,8 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
       const normalizedParam = categoryParam.toLowerCase();
       if (normalizedParam.includes('vape') || normalizedParam.includes('disposable')) {
         return 'vapes';
+      } else if (normalizedParam.includes('gummy') || normalizedParam.includes('gummies') || normalizedParam.includes('edible')) {
+        return 'gummies';
       } else if (normalizedParam.includes('flower')) {
         return 'flower';
       } else if (normalizedParam.includes('shake')) {
@@ -49,12 +54,24 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
 
   const setActiveCategory = (cat: string) => {
     setUserSelectedCategory(cat);
+    setCurrentPage(1);
   };
 
   const [searchQuery, setSearchQuery] = useState(urlSearchParam || '');
   const [sortBy, setSortBy] = useState('featured');
+  const [currentPage, setCurrentPage] = useState(1);
 
-  const rawCategories = ['All', 'flower', 'vapes', 'shake', 'trim'];
+  const rawCategories = ['All', 'flower', 'gummies', 'vapes', 'shake', 'trim'];
+
+  const handleSearchChange = (q: string) => {
+    setSearchQuery(q);
+    setCurrentPage(1);
+  };
+
+  const handleSortChange = (s: string) => {
+    setSortBy(s);
+    setCurrentPage(1);
+  };
 
   const filteredProducts = useMemo(() => {
     let result = products;
@@ -86,6 +103,20 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
     return result;
   }, [products, activeCategory, searchQuery, sortBy]);
 
+  const totalPages = Math.max(1, Math.ceil(filteredProducts.length / ITEMS_PER_PAGE));
+
+  const paginatedProducts = useMemo(() => {
+    const start = (currentPage - 1) * ITEMS_PER_PAGE;
+    return filteredProducts.slice(start, start + ITEMS_PER_PAGE);
+  }, [filteredProducts, currentPage]);
+
+  const handlePageChange = (newPage: number) => {
+    if (newPage >= 1 && newPage <= totalPages) {
+      setCurrentPage(newPage);
+      window.scrollTo({ top: 300, behavior: 'smooth' });
+    }
+  };
+
   return (
     <div className="flex flex-col gap-8 relative z-10">
       {/* Category Horizontal Quick Filters (Mobile & Desktop) */}
@@ -116,14 +147,14 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
         })}
       </div>
 
-      <div className="flex flex-col lg:flex-row gap-12">
+      <div className="flex flex-col lg:flex-row gap-8">
         {/* Sidebar Filters */}
-        <div className="hidden lg:block w-64 flex-shrink-0 space-y-10">
-          <div className="bg-white p-6 rounded-2xl border border-neutral-200 shadow-sm">
-            <h3 className="text-neutral-900 font-bold tracking-tight mb-6 flex items-center gap-2">
+        <div className="hidden lg:block w-56 flex-shrink-0 space-y-10">
+          <div className="bg-white p-5 rounded-2xl border border-neutral-200 shadow-sm">
+            <h3 className="text-neutral-900 font-bold tracking-tight mb-4 flex items-center gap-2 text-sm uppercase">
               <Filter className="w-4 h-4 text-[#dc2626]" /> Categories
             </h3>
-            <ul className="space-y-3">
+            <ul className="space-y-2">
               {rawCategories.map(category => {
                 const displayName = CATEGORY_NAMES[category] || category;
                 const isSelected = activeCategory.toLowerCase() === category.toLowerCase();
@@ -135,14 +166,14 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
                   <li key={category}>
                     <button
                       onClick={() => setActiveCategory(category)}
-                      className={`text-sm transition-all w-full text-left flex justify-between items-center py-2 px-3 rounded-xl ${
+                      className={`text-xs transition-all w-full text-left flex justify-between items-center py-2 px-3 rounded-xl ${
                         isSelected 
                           ? 'text-[#dc2626] font-black bg-red-50/80 border-l-4 border-[#dc2626]' 
                           : 'text-neutral-600 hover:text-neutral-900 hover:bg-neutral-50'
                       }`}
                     >
-                      <span>{displayName}</span>
-                      <span className={`text-xs px-2 py-0.5 rounded-full ${isSelected ? 'bg-red-100 text-[#dc2626] font-bold' : 'bg-neutral-100 text-neutral-500'}`}>
+                      <span className="font-semibold">{displayName}</span>
+                      <span className={`text-[10px] px-2 py-0.5 rounded-full ${isSelected ? 'bg-red-100 text-[#dc2626] font-bold' : 'bg-neutral-100 text-neutral-500'}`}>
                         {count}
                       </span>
                     </button>
@@ -163,7 +194,7 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
                 type="text"
                 placeholder="Search flower, vapes, strain..."
                 value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
+                onChange={(e) => handleSearchChange(e.target.value)}
                 className="w-full bg-white border border-neutral-200 text-neutral-900 placeholder:text-neutral-400 pl-11 pr-4 py-3 outline-none focus:border-[#dc2626] transition-colors rounded-xl text-sm shadow-sm"
               />
             </div>
@@ -171,7 +202,7 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
               <span className="text-sm text-neutral-500 whitespace-nowrap font-medium">Sort by:</span>
               <select
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value)}
+                onChange={(e) => handleSortChange(e.target.value)}
                 className="w-full sm:w-auto bg-white border border-neutral-200 text-neutral-900 px-4 py-3 outline-none focus:border-[#dc2626] transition-colors rounded-xl text-sm appearance-none font-medium shadow-sm"
               >
                 <option value="featured">Featured</option>
@@ -199,13 +230,60 @@ function ShopCatalogContent({ initialProducts }: ShopCatalogProps) {
             </div>
           )}
 
-          {/* Grid */}
-          {filteredProducts.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
-              {filteredProducts.map((product) => (
-                <ProductCard key={product.id} product={product} />
-              ))}
-            </div>
+          {/* Grid - 4 per row on lg/xl screens */}
+          {paginatedProducts.length > 0 ? (
+            <>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
+                {paginatedProducts.map((product) => (
+                  <ProductCard key={product.id} product={product} />
+                ))}
+              </div>
+
+              {/* Pagination Bar (16 per page) */}
+              <div className="mt-12 flex flex-col sm:flex-row items-center justify-between gap-4 border-t border-neutral-200 pt-6">
+                <div className="text-xs sm:text-sm text-neutral-600 font-medium">
+                  Showing <span className="font-bold text-neutral-900">{(currentPage - 1) * ITEMS_PER_PAGE + 1}</span> to{' '}
+                  <span className="font-bold text-neutral-900">{Math.min(currentPage * ITEMS_PER_PAGE, filteredProducts.length)}</span> of{' '}
+                  <span className="font-bold text-neutral-900">{filteredProducts.length}</span> products
+                </div>
+
+                {totalPages > 1 && (
+                  <div className="flex items-center gap-1.5">
+                    <button
+                      onClick={() => handlePageChange(currentPage - 1)}
+                      disabled={currentPage === 1}
+                      className="px-3 py-2 rounded-xl border border-neutral-200 text-xs font-bold text-neutral-700 hover:bg-neutral-100 disabled:opacity-40 disabled:cursor-not-allowed transition-all flex items-center gap-1 bg-white shadow-xs"
+                      aria-label="Previous page"
+                    >
+                      <ChevronLeft className="w-4 h-4" /> Prev
+                    </button>
+
+                    {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
+                      <button
+                        key={page}
+                        onClick={() => handlePageChange(page)}
+                        className={`w-9 h-9 sm:w-10 sm:h-10 rounded-xl text-xs sm:text-sm font-black transition-all border ${
+                          currentPage === page
+                            ? 'bg-[#dc2626] text-white border-[#dc2626] shadow-md scale-105'
+                            : 'bg-white text-neutral-700 border-neutral-200 hover:bg-neutral-100 shadow-xs'
+                        }`}
+                      >
+                        {page}
+                      </button>
+                    ))}
+
+                    <button
+                      onClick={() => handlePageChange(currentPage + 1)}
+                      disabled={currentPage === totalPages}
+                      className="px-3 py-2 rounded-xl border border-neutral-200 text-xs font-bold text-neutral-700 hover:bg-neutral-100 disabled:opacity-40 disabled:cursor-not-allowed transition-all flex items-center gap-1 bg-white shadow-xs"
+                      aria-label="Next page"
+                    >
+                      Next <ChevronRight className="w-4 h-4" />
+                    </button>
+                  </div>
+                )}
+              </div>
+            </>
           ) : (
             <div className="py-20 text-center bg-white border border-neutral-200 rounded-2xl">
               <p className="text-neutral-500 mb-4 font-medium">No products found matching your criteria.</p>
@@ -233,4 +311,5 @@ export function ShopCatalog(props: ShopCatalogProps) {
     </Suspense>
   );
 }
+
 
